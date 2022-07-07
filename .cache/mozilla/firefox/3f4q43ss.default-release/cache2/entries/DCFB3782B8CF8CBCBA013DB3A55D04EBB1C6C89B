@@ -1,0 +1,2397 @@
+<!DOCTYPE html >
+<html lang="en" class="height-full">
+  <head>
+    <title>GitHub Student Developer Pack - GitHub Education</title>
+    <meta name="description" content="The GitHub Student Developer Pack is all you need to learn how to code. Get your Pack now.">
+    
+    <link rel="stylesheet" media="screen" href="/assets/public-8bf058e48ba4a74886f6bdf1c648daeb4af776392a35211275315e397926ddb5.css" crossorigin="anonymous" integrity="sha256-i/BY5Iukp0iG9r3xxkja60r3djkqNSESdTFeOXkm3bU=" />
+    <link rel="stylesheet" media="print" href="/assets/print-84e9a1a5eaf31794033e5e63bd56236c0c9bf68b8460dca7d781f78088259630.css" crossorigin="anonymous" integrity="sha256-hOmhperzF5QDPl5jvVYjbAyb9ouEYNyn14H3gIglljA=" />
+    <script src="/assets/public-147c5a3f1b53f89cd12c3ceb44797f8cabf44faf82347793466bbb049c796ebd.js" crossorigin="anonymous" integrity="sha256-FHxaPxtT+JzRLDzrRHl/jKv0T6+CNHeTRmu7BJx5br0="></script>
+    
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="j66mcKLJhP2ZDq0GSr5o4VQGKpqunWeJvFzLJ6xVaCkydBHGu7MLWuVram/ApQCgFDFD5aGEZomg0ynF7K6aZA==" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+        <meta name="twitter:site" content="@GitHubEducation" /><meta name="twitter:site:id" content="1943578656" /><meta name="twitter:creator" content="@GitHubEducation" /><meta name="twitter:creator:id" content="1943578656" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub Student Developer Pack" /><meta name="twitter:description" content="The best developer tools, free for students. Get your GitHub Student Developer Pack now." /><meta name="twitter:image:src" content="https://education.github.com/assets/pack/twitter-summary-card-image-bec1d1f933d223919ff0576af8838cffe3975633b24641e9d7b1c4317066ae24.png" /><meta name="twitter:image:width" content="1120" /><meta name="twitter:image:height" content="600" />
+  <meta property="og:site_name" content="GitHub Education" /><meta property="og:author" content="https://www.facebook.com/GitHub" /><meta property="og:url" content="https://education.github.com/pack" /><meta property="og:type" content="object" /><meta property="og:image" content="https://education.github.com/assets/pack/opengraph-image-c6d692948bb5fbf237b8a72d6576b4dcc84586335b522a6036904fc16ec7eccd.png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta property="og:title" content="GitHub Student Developer Pack" /><meta property="og:description" content="The best developer tools, free for students. Get your GitHub Student Developer Pack now." /><meta property="fb:app_id" content="1470168793264145" />
+
+  </head>
+  <body class="_pack _index d-flex flex-column height-full" >
+    <div class="flex-auto">
+      
+
+
+
+      <header>
+  <div class="d-none d-md-block py-2 color-bg-emphasis">
+    <div class="container-xl p-responsive d-flex flex-md-justify-between">
+      <a class="d-block color-fg-on-emphasis no-underline" href="https://github.com">GitHub.com</a>
+    </div>
+  </div>
+
+  <div class="py-4 color-bg-default border-bottom">
+    <div class="d-flex flex-column flex-lg-row flex-lg-items-center flex-lg-justify-between container-xl p-responsive flex-items-center">
+      <h1 class="f2-mktg">
+        <a class="color-fg-default" href="/">
+          <svg class="octicon octicon-mark-github mr-2" fill="#000000" viewBox="0 0 16 16" width="31" height="31" version="1.1" aria-hidden="true"><path   d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>Education
+</a>      </h1>
+
+      <nav class="mt-3 mt-md-0">
+        <ul class="d-flex flex-wrap flex-justify-center flex-items-center flex-md-justify-end list-style-none">
+          <li class="mx-3 mb-2 mb-sm-3 mb-md-0">
+            <details class="position-relative details-reset details-overlay select-menu">
+              <summary class="select-menu-button">
+                  <span class="color-fg-accent">Students</span>
+              </summary>
+              <details-menu class="dropdown-menu dropdown-menu-se mt-1" style="width: 300px; z-index:999">
+                <div class="select-menu-list js-navigation-container">
+                  <a class="select-menu-item js-navigation-item" href="/students">Explore Student Programs</a>
+                  <a class="select-menu-item js-navigation-item" href="/pack/offers">Get your Student Developer Pack</a>
+                  <a class="select-menu-item js-navigation-item" href="/experts">Become a Campus Expert</a>
+                </div>
+              </details-menu>
+            </details>
+          </li>
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+            <details class="position-relative details-reset details-overlay select-menu">
+              <summary class="select-menu-button">
+                  Teachers
+              </summary>
+              <details-menu class="dropdown-menu dropdown-menu-s mx-2 mt-1" style="width: 240px; z-index:999">
+                <div class="select-menu-list js-navigation-container">
+                  <a class="select-menu-item js-navigation-item" href="/teachers">Explore Teacher Programs</a>
+                  <a class="select-menu-item js-navigation-item" href="https://classroom.github.com">Learn about GitHub Classroom</a>
+                </div>
+              </details-menu>
+            </details>
+          </li>
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+              <a class="color-fg-default" href="/schools">Schools</a>
+          </li>
+
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+              <a class="color-fg-default" href="/benefits">Benefits</a>
+          </li>
+
+          <li class="d-flex flex-items-center mx-3 mb-2 mb-sm-3 mb-md-0">
+              <a class="color-fg-default" href="/events">Events</a>
+          </li>
+
+          <div
+  id="render_async_4bcf9a82b21657208778"
+  class=""
+>
+  
+</div>
+
+
+
+          <div
+  id="render_async_06d29a93a01657208778"
+  class=""
+>
+  
+</div>
+
+
+
+          <li class="d-flex flex-items-center ml-1 mr-3 mb-2 mb-sm-3 mb-md-0">
+              <details class="position-relative details-reset details-overlay select-menu">
+                <summary class="select-menu-button mb-1">
+                  <img class="avatar " alt="@jochimin1" height="25" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108888046?v=3&amp;size=40" />
+                </summary>
+                <details-menu class="dropdown-menu dropdown-menu-sw" style="width: 275px; z-index:999;">
+                  <div class="select-menu-list js-navigation-container">
+                    <a class="select-menu-item js-navigation-item" href="https://github.com/jochimin1">
+                      Signed in as <strong>jochimin1</strong>
+                    </a>
+                    <a class="select-menu-item js-navigation-item" href="https://github.com/jochimin1">
+                      Your GitHub profile
+                    </a>
+                    <a class="select-menu-item js-navigation-item" href="/benefits">Your benefits</a>
+                    <a class="select-menu-item js-navigation-item" href="/discount_requests/teacher_application">Reverify your academic affiliation</a>
+
+                    <span class="select-menu-item" style="border: none;">Help desk</span>
+                    <a target="_blank" class="select-menu-item js-navigation-item js-landing-page-link mt-0 pt-0 pl-7" style="border: none;" data-link-location="2" href="https://docs.github.com/en/education">Education docs</a>
+                    <a target="_blank" class="select-menu-item js-navigation-item js-landing-page-link mt-0 pt-0 pl-7" style="border: none;" data-link-location="2" href="https://support.github.com/contact/education">Education support</a>
+                    <a target="_blank" class="select-menu-item js-navigation-item js-landing-page-link mt-0 pt-0 pl-7" data-link-location="2" href="https://github.com/orgs/github-community/discussions/categories/github-education">Education community</a>
+
+                    <a class="select-menu-item js-navigation-item" href="/sign_out">Sign out</a>
+                  </div>
+                </details-menu>
+              </details>
+          </li>
+
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+      
+
+      <script src="/assets/landing-page-7925720e3782deee2a7908a12289d47953ed466272642102dece43f2edb93eac.js" crossorigin="anonymous" integrity="sha256-eSVyDjeC3u4qeQihIonUeVPtRmJyZCEC3s5D8u25Pqw="></script>
+<script src="/assets/pack-page-8f6e6a182604a199e81fa42b3983d5c4123d38c163b806af12673274a5bc0b66.js" crossorigin="anonymous" integrity="sha256-j25qGCYEoZnoH6QrOYPVxBI9OMFjuAavEmcydKW8C2Y="></script>
+<script src="/assets/twitter-id-e43ec40b8d0d725a13f2809451bf59f96837fe11a41a0ed3156ba3e8a3c3f434.js" crossorigin="anonymous" integrity="sha256-5D7EC40NcloT8oCUUb9Z+Wg3/hGkGg7TFWuj6KPD9DQ="></script>
+
+
+
+<script src="/assets/social-media-1f3e98e429c792a59cdaa39c7878bd8e1541db64d44e5dde67e389ed08813f3b.js" crossorigin="anonymous" integrity="sha256-Hz6Y5CnHkqWc2qOceHi9jhVB22TUTl3eZ+OJ7QiBPzs="></script>
+
+<div class="tan-gradient">
+  <div class="container-xl pt-1 pt-md-6 pb-2 p-responsive pack-header-image">
+    <div class="d-flex flex-justify-between flex-items-center mb-4 mt-3">
+      <h1 class="f0-mktg lh-condensed text-left d-inline-block">GitHub Student Developer Pack</h1>
+    </div>
+    <p class="f3 mb-5 color-fg-default col-8">
+      <span class="text-bold">Learn to ship software like a pro.</span> There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive.
+      That's why we created the GitHub Student Developer Pack with some of our partners and friends.
+    </p>
+
+    <div class="mb-3">
+        <a class="js-landing-page-link f4 btn-large-mktg btn-signup-mktg mb-4" style="border-radius: 6px;" data-link-location="3" data-link-target-type="8" href="/benefits?type=student">Sign up for Student Developer Pack</a>
+
+      <div class="text-left pt-6">
+        <div>
+          <p class="f5 text-bold mt-3">Love the pack? Spread the word</p>
+        </div>
+        <div class="d-flex mt-3 flex-items-start">
+          <div class="d-inline-block twitter-share-button mr-2">
+            <a href="https://twitter.com/share" class="js-landing-page-link twitter-share-button v-hidden" data-text="The best developer tools, free for students:" data-url="https://education.github.com/pack" data-via="githubeducation" data-size="large" data-link-location=1 data-link-target-type: 6>Tweet</a>
+          </div>
+
+          <div class="fb-like position-relative" data-href="https://education.github.com/pack" data-size="large" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+          <div id="fb-root"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container-xl pt-1 pt-md-8 pb-6 p-responsive">
+  <h2 class="mb-4 mt-4 mt-md-0">Experiences</h2>
+<div class="pack-offer-grid pack-offer-grid--experience-cards mb-7" >
+    <div class="rounded-2 p-4" id="#&lt;ExperienceData:0x00007f415a9be950&gt;" style="border: 1px solid rgba(27, 31, 35, 0.1);">
+      <img alt="Education laptop invertocat" class="width-fit mb-4" style="height: 75px" src="/assets/experience/01/virtual-event-kit-icon-37a665f41a85865fe51a9db5c9b050f4bdc684d42b379e80688ec078e11a6114.png" />
+      <h3 class="mb-3">Virtual Event Kit</h3>
+      <p class="mb-4 color-fg-muted">Everything you need for your virtual event. Design for engagement and we&#39;ll take care of the tools. The Virtual Event Kit gives students the resources to make running online events simple and accessible.</p>
+        <p class="text-normal f5 mb-3">Offers in this bundle</p>
+        <ul class="list-style-none pack__experiences__offers__wrapper pb-2">
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Namecheap">
+              <img alt="namecheap" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_namecheap-0deb429f557eb6b0d45800c789c82af2cde2f29480a43ad2d17c0e4fc9965979.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Microsoft Azure">
+              <img alt="microsoft" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_microsoft-ebd52232a00bfc45e679a4e378d329c041516c1865356ae4297c60caf5bbb318.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Name.com">
+              <img alt="namecom" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_namecom-e90770e72a99dbd45292d44e8b3770db8741bd6e5185767baf6515711b230ccf.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="StreamYard">
+              <img alt="streamyard" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_streamyard-58be5d52c4ae7a3f1f4821b13733672d2d0bac3b1ec11ef3559e95052f8cccd5.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Canva">
+              <img alt="canva" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_canva-76e732ddf78205b41219882f4388df2833de64e03244259ea24c1f61a5cffd79.png" />
+            </li>
+          <div class="remodal text-left" data-remodal-id="pack_offer_experience_modal_virtual_event_kit">
+  <div class="Box">
+    <div class="Box-header">
+      <button data-remodal-action="close" class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" width="12" height="16" version="1.1" aria-hidden="true"><path   d="M7.48 8l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75-1.48-1.48 3.75-3.75L0.77 4.25l1.48-1.48 3.75 3.75 3.75-3.75 1.48 1.48-3.75 3.75z"></path></svg>
+      </button>
+      <h3 class="Box-title">Virtual Event Kit offers (Total 5)</h3>
+    </div>
+    <div style="max-height: 500px; overflow: scroll">
+        <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Namecheap" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_namecheap-0deb429f557eb6b0d45800c789c82af2cde2f29480a43ad2d17c0e4fc9965979.png" />
+      <div class="text-small text-bold ml-3">Namecheap</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41641376b0&gt;">Virtual Events</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41646ee4a0&gt;">Domains</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41646ed938&gt;">Virtual Events</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Microsoft Azure" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_microsoft-ebd52232a00bfc45e679a4e378d329c041516c1865356ae4297c60caf5bbb318.png" />
+      <div class="text-small text-bold ml-3">Microsoft Azure</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f415068e730&gt;">Cloud</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f415068db78&gt;">Virtual Events</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Name.com" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_namecom-e90770e72a99dbd45292d44e8b3770db8741bd6e5185767baf6515711b230ccf.png" />
+      <div class="text-small text-bold ml-3">Name.com</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41506e08c8&gt;">Virtual Events</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41506e05d0&gt;">Domains</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="StreamYard" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_streamyard-58be5d52c4ae7a3f1f4821b13733672d2d0bac3b1ec11ef3559e95052f8cccd5.png" />
+      <div class="text-small text-bold ml-3">StreamYard</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f415072a4f0&gt;">Virtual Events</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Canva" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_canva-76e732ddf78205b41219882f4388df2833de64e03244259ea24c1f61a5cffd79.png" />
+      <div class="text-small text-bold ml-3">Canva</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41507620a8&gt;">Design</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4150761e78&gt;">Virtual Events</span>
+    </div>
+  </div>
+
+    </div>
+    <div class="Box-row d-flex flex-items-center pt-4 pb-5">
+      <a href="/experiences/virtual_event_kit" class="js-landing-page-link btn btn-primary py-1 px-3 rounded-2" data-link-location=3 data-link-target-type=7>Explore the experience</a>
+    </div>
+  </div>
+</div>
+
+        </ul>
+        <div>
+          <p class="text-normal text-primary f5 mb-3">
+            Additional benefits
+            <span class="tooltipped tooltipped-n tooltipped-multiline ml-2" role="tooltip" aria-label="These benefits are offered by partners that are not included in the Student Developer Pack.">
+              <svg class="octicon octicon-info" viewBox="0 0 14 16" width="14" height="16" version="1.1" aria-hidden="true"><path   d="M6.3 5.69c-0.19-0.19-0.28-0.42-0.28-0.7s0.09-0.52 0.28-0.7 0.42-0.28 0.7-0.28 0.52 0.09 0.7 0.28 0.28 0.42 0.28 0.7-0.09 0.52-0.28 0.7-0.42 0.3-0.7 0.3-0.52-0.11-0.7-0.3z m1.7 2.3c-0.02-0.25-0.11-0.48-0.31-0.69-0.2-0.19-0.42-0.3-0.69-0.31h-1c-0.27 0.02-0.48 0.13-0.69 0.31-0.2 0.2-0.3 0.44-0.31 0.69h1v3c0.02 0.27 0.11 0.5 0.31 0.69 0.2 0.2 0.42 0.31 0.69 0.31h1c0.27 0 0.48-0.11 0.69-0.31 0.2-0.19 0.3-0.42 0.31-0.69h-1V7.98z m-1-5.69C3.86 2.3 1.3 4.84 1.3 7.98s2.56 5.7 5.7 5.7 5.7-2.55 5.7-5.7-2.56-5.69-5.7-5.69m0-1.31c3.86 0 7 3.14 7 7S10.86 14.98 7 14.98 0 11.86 0 7.98 3.14 0.98 7 0.98z"></path></svg>
+            </span>
+          </p>
+          <ul class="list-style-none d-flex flex-justify-left flex-wrap pb-2">
+              <li class="color-fg-default tooltipped tooltipped-n" aria-label="Discord">
+                <img alt="discord" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_discord-0c8f0bc432f326ad987fa99fdcb7030a67ce5d5edd2149077d8f54d4cb88f7d6.png" />
+              </li>
+          </ul>
+        </div>
+      <a class="js-landing-page-link" href="/experiences/virtual_event_kit" data-link-location=3 data-link-target-type=7>Learn more <svg class="octicon octicon-chevron-right" viewBox="0 0 8 16" width="8" height="16" version="1.1" aria-hidden="true"><path   d="M7.5 8L2.5 13l-1.5-1.5 3.75-3.5L1 4.5l1.5-1.5 5 5z"></path></svg></a>
+    </div>
+    <div class="rounded-2 p-4" id="#&lt;ExperienceData:0x00007f415a9bda00&gt;" style="border: 1px solid rgba(27, 31, 35, 0.1);">
+      <img alt="Intro to Web Dev logo - purple computer monitor with yellow post-it featuring invertocat logo" class="width-fit mb-4" style="height: 75px" src="/assets/experience/02/github-web-development-kit-logo-7b7457f9366e7e245815871a994d0e2ebacdbd84549a53182b308d795b46d88d.png" />
+      <h3 class="mb-3">Intro to Web Dev</h3>
+      <p class="mb-4 color-fg-muted">Everything you need to build your next website. Learn how to design and build your own website as you learn the basics of web development. The Intro to Web Dev Experience gives students the tools to start you on a path, no matter how much experience or technical knowledge you currently have.</p>
+        <p class="text-normal f5 mb-3">Offers in this bundle</p>
+        <ul class="list-style-none pack__experiences__offers__wrapper pb-2">
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Bootstrap Studio">
+              <img alt="bootstrapstudio" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_bootstrapstudio-9f875d533e725b939fb5687a7bff29cd679a04979fdac5922446ca17fc7d6a3e.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="DigitalOcean">
+              <img alt="digitalocean" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_digitalocean-a06c6484381ad74aff6bd3672cbe68fa5f620ce004da6428e6fd59315a08034d.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="JetBrains">
+              <img alt="jetbrains" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_jetbrains-b6fffc41fb5541747e5a2fd6ae1052bac1b898861d32073d60b57b2b180d9bba.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Microsoft Azure">
+              <img alt="microsoft" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_microsoft-ebd52232a00bfc45e679a4e378d329c041516c1865356ae4297c60caf5bbb318.png" />
+            </li>
+            <li class="color-fg-default tooltipped tooltipped-n" aria-label="Educative">
+              <img alt="educative" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_educative-8557d4caa99d4be505cbc03b302e3e1d1cb0a4ff8e2126faf7b20d523557309d.png" />
+            </li>
+            <li class="color-fg-default">
+              <div style="height: 36px; width: 36px; border-radius: 50%; text-align: center; line-height: 32px; border: 1px solid #E1E4E8">
+                <a href="#" data-remodal-target="pack_offer_experience_modal_intro_to_web_dev" style="font-size: 0.8em;" class="color-fg-muted js-remodal-link">+4</a>
+              </div>
+            </li>
+          <div class="remodal text-left" data-remodal-id="pack_offer_experience_modal_intro_to_web_dev">
+  <div class="Box">
+    <div class="Box-header">
+      <button data-remodal-action="close" class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" width="12" height="16" version="1.1" aria-hidden="true"><path   d="M7.48 8l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75-1.48-1.48 3.75-3.75L0.77 4.25l1.48-1.48 3.75 3.75 3.75-3.75 1.48 1.48-3.75 3.75z"></path></svg>
+      </button>
+      <h3 class="Box-title">Intro to Web Dev offers (Total 9)</h3>
+    </div>
+    <div style="max-height: 500px; overflow: scroll">
+        <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Bootstrap Studio" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_bootstrapstudio-9f875d533e725b939fb5687a7bff29cd679a04979fdac5922446ca17fc7d6a3e.png" />
+      <div class="text-small text-bold ml-3">Bootstrap Studio</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f415ccbc6c8&gt;">Design</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f415ccbc3f8&gt;">Developer tools</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="DigitalOcean" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_digitalocean-a06c6484381ad74aff6bd3672cbe68fa5f620ce004da6428e6fd59315a08034d.png" />
+      <div class="text-small text-bold ml-3">DigitalOcean</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f41240ee220&gt;">Cloud</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="JetBrains" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_jetbrains-b6fffc41fb5541747e5a2fd6ae1052bac1b898861d32073d60b57b2b180d9bba.png" />
+      <div class="text-small text-bold ml-3">JetBrains</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4154e935d0&gt;">Developer tools</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Microsoft Azure" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_microsoft-ebd52232a00bfc45e679a4e378d329c041516c1865356ae4297c60caf5bbb318.png" />
+      <div class="text-small text-bold ml-3">Microsoft Azure</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4154e9ee30&gt;">Cloud</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4154e9eb88&gt;">Virtual Events</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Educative" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_educative-8557d4caa99d4be505cbc03b302e3e1d1cb0a4ff8e2126faf7b20d523557309d.png" />
+      <div class="text-small text-bold ml-3">Educative</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4154ee2658&gt;">Learn</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Polypane" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_polypane-65103bdb7d3bf6a3b499fbc4316c8407f7f3462eec0cadcecce3569007d2f6b1.png" />
+      <div class="text-small text-bold ml-3">Polypane</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4154f15bc0&gt;">Design</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f4154f159e0&gt;">Developer tools</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Twilio" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_twilio-8177c0afe17fb8933c5474b7c00d4d71147bbfba0e6cbb3b1cca0d3349e595f6.png" />
+      <div class="text-small text-bold ml-3">Twilio</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="Microsoft Visual Studio Dev Essentials" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_microsoftvisualstudio-6baf5c58f993ac6a564ac851b90e154816f4245d2e36cb5e6da99393350b6161.png" />
+      <div class="text-small text-bold ml-3">Microsoft Visual Studio Dev Essentials</div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f416489d058&gt;">Cloud</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f416489ce78&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard mt-0 mr-1 mb-1 mr-sm-0 mb-sm-0 ml-sm-3" title="#&lt;Tagging:0x00007f416489cc98&gt;">Learn</span>
+    </div>
+  </div>
+  <div class="Box-row d-flex flex-column flex-sm-row py-2">
+    <div class="d-flex flex-items-center flex-auto">
+      <img alt="GitHub Pages " height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_github-pages-3f2eb02545ca7c3e81beb0a464e85fb5340ec9d689133db563d1869350d6416c.png" />
+      <div class="text-small text-bold ml-3">GitHub Pages </div>
+    </div>
+    <div class="d-flex flex-wrap flex-sm-nowrap flex-items-center">
+    </div>
+  </div>
+
+    </div>
+    <div class="Box-row d-flex flex-items-center pt-4 pb-5">
+      <a href="/experiences/intro_to_web_dev" class="js-landing-page-link btn btn-primary py-1 px-3 rounded-2" data-link-location=3 data-link-target-type=7>Explore the experience</a>
+    </div>
+  </div>
+</div>
+
+        </ul>
+        <div>
+          <p class="text-normal text-primary f5 mb-3">
+            Additional benefits
+            <span class="tooltipped tooltipped-n tooltipped-multiline ml-2" role="tooltip" aria-label="These benefits are offered by partners that are not included in the Student Developer Pack.">
+              <svg class="octicon octicon-info" viewBox="0 0 14 16" width="14" height="16" version="1.1" aria-hidden="true"><path   d="M6.3 5.69c-0.19-0.19-0.28-0.42-0.28-0.7s0.09-0.52 0.28-0.7 0.42-0.28 0.7-0.28 0.52 0.09 0.7 0.28 0.28 0.42 0.28 0.7-0.09 0.52-0.28 0.7-0.42 0.3-0.7 0.3-0.52-0.11-0.7-0.3z m1.7 2.3c-0.02-0.25-0.11-0.48-0.31-0.69-0.2-0.19-0.42-0.3-0.69-0.31h-1c-0.27 0.02-0.48 0.13-0.69 0.31-0.2 0.2-0.3 0.44-0.31 0.69h1v3c0.02 0.27 0.11 0.5 0.31 0.69 0.2 0.2 0.42 0.31 0.69 0.31h1c0.27 0 0.48-0.11 0.69-0.31 0.2-0.19 0.3-0.42 0.31-0.69h-1V7.98z m-1-5.69C3.86 2.3 1.3 4.84 1.3 7.98s2.56 5.7 5.7 5.7 5.7-2.55 5.7-5.7-2.56-5.69-5.7-5.69m0-1.31c3.86 0 7 3.14 7 7S10.86 14.98 7 14.98 0 11.86 0 7.98 3.14 0.98 7 0.98z"></path></svg>
+            </span>
+          </p>
+          <ul class="list-style-none d-flex flex-justify-left flex-wrap pb-2">
+              <li class="color-fg-default tooltipped tooltipped-n" aria-label="Microsoft">
+                <img alt="microsoft" height="36" width="36" style="border-radius: 50%; border: 1px solid #E1E4E8" src="/assets/pack/icon_microsoft-ebd52232a00bfc45e679a4e378d329c041516c1865356ae4297c60caf5bbb318.png" />
+              </li>
+          </ul>
+        </div>
+      <a class="js-landing-page-link" href="/experiences/intro_to_web_dev" data-link-location=3 data-link-target-type=7>Learn more <svg class="octicon octicon-chevron-right" viewBox="0 0 8 16" width="8" height="16" version="1.1" aria-hidden="true"><path   d="M7.5 8L2.5 13l-1.5-1.5 3.75-3.5L1 4.5l1.5-1.5 5 5z"></path></svg></a>
+    </div>
+</div>
+
+
+  <div class="mb-4">
+    <h2 class="pb-4" id="offers" >All offers</h2>
+    <div class="col-10">
+          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=All">
+            <span class="Label Label--large Label--blue-standard-selected m-1 text-normal" title="All" style="margin-left: 0px !important">All</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Cloud">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Cloud" style="margin-left: 0px !important">Cloud</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Design">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Design" style="margin-left: 0px !important">Design</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Developer+tools">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Developer tools" style="margin-left: 0px !important">Developer tools</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Domains">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Domains" style="margin-left: 0px !important">Domains</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Game+development">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Game development" style="margin-left: 0px !important">Game development</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Infrastructure+%26+APIs">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Infrastructure &amp; APIs" style="margin-left: 0px !important">Infrastructure &amp; APIs</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Internet+of+Things">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Internet of Things" style="margin-left: 0px !important">Internet of Things</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Learn">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Learn" style="margin-left: 0px !important">Learn</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Marketing">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Marketing" style="margin-left: 0px !important">Marketing</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Mobile">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Mobile" style="margin-left: 0px !important">Mobile</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Productivity">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Productivity" style="margin-left: 0px !important">Productivity</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Security+%26+analytics">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Security &amp; analytics" style="margin-left: 0px !important">Security &amp; analytics</span>
+</a>          <a data-link-location="3" data-link-target-type="6" class="js-landing-page-link pr-2" href="/pack?sort=popularity&amp;tag=Virtual+Events">
+            <span class="Label Label--large Label--blue-standard m-1 text-normal" title="Virtual Events" style="margin-left: 0px !important">Virtual Events</span>
+</a>    </div>
+  </div>
+
+  <div class="pb-6 pt-1 f5 color-fg-default">
+  <div class="d-flex flex-justify-end flex-items-center mt-2">
+  <div class="d-inline-block">
+    <!--// START "Sort by select menu" //-->
+<div class="position-relative">
+  <details class="position-relative details-reset details-overlay select-menu">
+    <summary class="btn-link select-menu-button f5-mktg" style="color: #24292E;" aria-haspopup="menu">
+      <span class="text-normal">Sort by:</span>
+      Most popular last week
+    </summary>
+    <details-menu class="select-menu-modal position-absolute left-0" role="menu" style="z-index:99">
+      <div class="select-menu-header js-navigation-enable" tabindex="-1">
+        <button class="btn-link close-button js-menu-close" type="button"><svg class="octicon octicon-x" viewBox="0 0 12 16" width="12" height="16" version="1.1" aria-hidden="true"><path   d="M7.48 8l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75-1.48-1.48 3.75-3.75L0.77 4.25l1.48-1.48 3.75 3.75 3.75-3.75 1.48 1.48-3.75 3.75z"></path></svg></button>
+        <span class="select-menu-title">Sort by:</span>
+      </div>
+      <div class="select-menu-list js-navigation-container">
+            <a class="select-menu-item js-navigation-item selected" data-method="GET" href="/pack?sort=popularity">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" width="12" height="16" version="1.1" aria-hidden="true"><path   d="M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z"></path></svg>
+              <span class="js-select-button-text text-bold text-primary">Most popular last week</span>
+</a>            <a class="select-menu-item js-navigation-item " data-method="GET" href="/pack?sort=newest">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" width="12" height="16" version="1.1" aria-hidden="true"><path   d="M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z"></path></svg>
+              <span class="js-select-button-text text-bold text-primary">Newest</span>
+</a>            <a class="select-menu-item js-navigation-item " data-method="GET" href="/pack?sort=az">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" width="12" height="16" version="1.1" aria-hidden="true"><path   d="M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z"></path></svg>
+              <span class="js-select-button-text text-bold text-primary">A to Z</span>
+</a>      </div>
+    </details-menu>
+  </details>
+  <!--// END "State select menu" //-->
+</div>
+
+  </div>
+</div>
+
+  <dl class="pack-offer-grid mt-5">
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="canva" class="text-center">
+    <span class="d-none">Canva</span>
+    <div class="mb-4">
+      <img alt="Canva" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/52/image/original-297e786157.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0504dbcd997810c29614f09da8ab266e5cebf2e511f0817d7913fda70f80b634" />
+      <a name="canva"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Canva</p>
+    <p class="mb-3 f-4">With Canva, anyone can create professional looking graphics and designs. Featuring thousands of templates and an easy to use editor.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free 12 month subscription of Canva&#39;s Pro tier.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507a5b78&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507a5920&gt;">Virtual Events</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="namecheap" class="text-center">
+    <span class="d-none">Namecheap</span>
+    <div class="mb-4">
+      <img alt="Namecheap" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-namecheap-7ecd22457a4ee5617490ba4cc16b1c15ee97c7ff87d5c47cea0352f7b87ab2b8.jpg" />
+      <a name="namecheap"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Namecheap</p>
+    <p class="mb-3 f-4">Affordable registration, hosting, and domain management</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">1 year domain name registration on the .me TLD.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507b60b8&gt;">Virtual Events</span>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">1 SSL certificate free for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507b95d8&gt;">Domains</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507b9358&gt;">Virtual Events</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="microsoft" class="text-center">
+    <span class="d-none">Microsoft Azure</span>
+    <div class="mb-4">
+      <img alt="Microsoft Azure" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-microsoft-2ae66d4033f4624cc4d1a9ebebf547a5a30fed4280145e22233d2d5433e43a76.jpg" />
+      <a name="microsoft"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Microsoft Azure</p>
+    <p class="mb-3 f-4">Access to Microsoft Azure cloud services and learning resources â€“ no credit card required</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507c9488&gt;">Cloud</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507c9208&gt;">Virtual Events</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="jetbrains" class="text-center">
+    <span class="d-none">JetBrains</span>
+    <div class="mb-4">
+      <img alt="JetBrains" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-jetbrains-f8afd8b5c788367a5a6cfb33a70a8741be61e0c8b810c374a5d505f1466751a2.jpg" />
+      <a name="jetbrains"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About JetBrains</p>
+    <p class="mb-3 f-4">Professional desktop IDEs: IntelliJ IDEA, PyCharm, and more.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">A free subscription for students, to be renewed annually.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507d9310&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="educative" class="text-center">
+    <span class="d-none">Educative</span>
+    <div class="mb-4">
+      <img alt="Educative" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-educative-0ff5bf24988bb845b0e2aa256b2065e5fd1339eb2e566de483a9e0cbc916e96e.jpg" />
+      <a name="educative"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Educative</p>
+    <p class="mb-3 f-4">Level up on trending coding skills at your own pace with interactive, text-based courses.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Get 6 free months of 60+ courses covering in-demand topics like Web Development, Python, Java, and Machine Learning.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41507e9df0&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="namecom" class="text-center">
+    <span class="d-none">Name.com</span>
+    <div class="mb-4">
+      <img alt="Name.com" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/43/image/original-526a5fd736.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2608ccd37a017c15c58c45038e761e432dfe6168d5d8f124621dc180e6296667" />
+      <a name="namecom"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Name.com</p>
+    <p class="mb-3 f-4">Best-in-class domains, email, and hosting</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">1 free year domain registration, 1 free year Advanced Security (SSL, privacy protection, and more).</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4150809ee8&gt;">Virtual Events</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4150809b50&gt;">Domains</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="digitalocean" class="text-center">
+    <span class="d-none">DigitalOcean</span>
+    <div class="mb-4">
+      <img alt="DigitalOcean" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-digitalocean-3d328c1d6619d314d47aab1259c1235b1339c343e12df62a688076bf6ceac866.jpg" />
+      <a name="digitalocean"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About DigitalOcean</p>
+    <p class="mb-3 f-4">Simple cloud hosting, built for developers</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">$100 in platform credit for new users.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4150818e98&gt;">Cloud</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="github" class="text-center">
+    <span class="d-none">GitHub</span>
+    <div class="mb-4">
+      <img alt="GitHub" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg" />
+      <a name="github"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About GitHub</p>
+    <p class="mb-3 f-4">Powerful collaboration, code review, and code management</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free GitHub Pro while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4150855618&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="student-vscode" class="text-center">
+    <span class="d-none">Visual Studio Code</span>
+    <div class="mb-4">
+      <img alt="Visual Studio Code" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/226/image/original-386dbc8d61.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3509148abcd9dbe5b77e65c9547e86e70c0c9e3673e517045187992140416df7" />
+      <a name="student-vscode"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Visual Studio Code</p>
+    <p class="mb-3 f-4">Microsoft&#39;s goal is to empower all students with the best resources and tools as they learn to code.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">These coding packs help you download everything you need to start coding in Java, Python, or .NET.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cbbaf90&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="bootstrapstudio" class="text-center">
+    <span class="d-none">Bootstrap Studio</span>
+    <div class="mb-4">
+      <img alt="Bootstrap Studio" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-bootstrapstudio-3c452629f5506e9db0fc76bc310be352c105103c6ae8b515de5b11a9bd487adf.jpg" />
+      <a name="bootstrapstudio"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Bootstrap Studio</p>
+    <p class="mb-3 f-4">Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">A free license for Bootstrap Studio while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cbcf3f0&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cbceef0&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="github-pages" class="text-center">
+    <span class="d-none">GitHub Pages </span>
+    <div class="mb-4">
+      <img alt="GitHub Pages " height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/191/image/original-21a0372cf9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ede03bcabc79ab160d8345b1580519bace75e6f3bf2a72e71a70820fb71ab454" />
+      <a name="github-pages"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About GitHub Pages </p>
+    <p class="mb-3 f-4">Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">get one site per GitHub account and organization, and unlimited project sites.</p>
+
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="microsoftvisualstudio" class="text-center">
+    <span class="d-none">Microsoft Visual Studio Dev Essentials</span>
+    <div class="mb-4">
+      <img alt="Microsoft Visual Studio Dev Essentials" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/192/image/original-7b3c023e94.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4471b7e5558edd0f7a89a39b4b56431fc6b2ecc4daaab7862fa0f30fd5e3b9e4" />
+      <a name="microsoftvisualstudio"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Microsoft Visual Studio Dev Essentials</p>
+    <p class="mb-3 f-4">Free developer tools, cloud services and training from Microsoft.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Visual Studio Community, Visual Studio Community for Mac, access to Pluralsight training, 1 free year of Azure services with $200 credit for the 1st month and more.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cb045d8&gt;">Cloud</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cb040b0&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cb0bdb0&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="datacamp" class="text-center">
+    <span class="d-none">DataCamp</span>
+    <div class="mb-4">
+      <img alt="DataCamp" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/121/image/original-a3ba353447.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8f9aed9962833d610e2fa0e67ec43c2aa0e13ff97dcd98bd113a428a454931bd" />
+      <a name="datacamp"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About DataCamp</p>
+    <p class="mb-3 f-4">DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the worldâ€™s top data scientists.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free 3-month individual subscription for students.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cb54df8&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="tech" class="text-center">
+    <span class="d-none">.TECH</span>
+    <div class="mb-4">
+      <img alt=".TECH" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-tech-b0fa96cc0ae1c9b224a141c9592835e746731caa1bfba0c30893e90678029919.jpg" />
+      <a name="tech"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About .TECH</p>
+    <p class="mb-3 f-4">A powerful domain extension to convey that you belong to the technology industry.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">One standard .TECH domain free for 1 year and 2 free email accounts with 100 MB free storage</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ce2aa00&gt;">Domains</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="frontendmasters" class="text-center">
+    <span class="d-none">FrontendMasters</span>
+    <div class="mb-4">
+      <img alt="FrontendMasters" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-frontendmasters-46f9f8aa9546a7e8dc3e0edae3d9dbb1df85261d8a4aa0a7dbe4492137e30006.jpg" />
+      <a name="frontendmasters"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About FrontendMasters</p>
+    <p class="mb-3 f-4">Advance your skills with in-depth JavaScript, Node.js &amp; front-end engineering courses.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free 6-months access to all courses and workshops.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ac4a408&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="gitlens" class="text-center">
+    <span class="d-none">GitLens</span>
+    <div class="mb-4">
+      <img alt="GitLens" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/225/image/original-6c88657d1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154617Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2c439426404bca3eed605a1df9f62ea3759b72493f8cbd6141d9b8cbfde36819" />
+      <a name="gitlens"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About GitLens</p>
+    <p class="mb-3 f-4">GitLens is the #1 Git extension for VS Code; it unlocks the knowledge within your Git repos to help visualize code authorship by leveraging CodeLens and Git blame. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues. </p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free GitLens+ Pro while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ac9ab60&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="onemonth" class="text-center">
+    <span class="d-none">OneMonth</span>
+    <div class="mb-4">
+      <img alt="OneMonth" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-onemonth-4793438ffc3971afcd2f20923c5ae170fde2c6b3e44476e240d33072e111ca15.jpg" />
+      <a name="onemonth"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About OneMonth</p>
+    <p class="mb-3 f-4">Learn HTML, CSS, JavaScript and Python in just 30 days!</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free 30-day One Month subscription.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ace52a0&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="termius" class="text-center">
+    <span class="d-none">Termius</span>
+    <div class="mb-4">
+      <img alt="Termius" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-termius-ea90072ebab136b1cc3763086c0986844bdd57c57857129e25ed54f448a5ae41.jpg" />
+      <a name="termius"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Termius</p>
+    <p class="mb-3 f-4">SSH client that works on desktop and mobile. Termius securely syncs data across all your devices.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free access to the Premium plan while you&#39;re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ad62f20&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ad62bb0&gt;">Mobile</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="deepsource" class="text-center">
+    <span class="d-none">DeepSource</span>
+    <div class="mb-4">
+      <img alt="DeepSource" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-deepsource-715d9df83f5fc58b244ee741d238e65960bb2bf3d61b206464cf71f0e8b56aaf.jpg" />
+      <a name="deepsource"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About DeepSource</p>
+    <p class="mb-3 f-4">Static analysis platform to help you write good code.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free to use for students enrolled in GitHub Education pack.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ce6f880&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="pomodone" class="text-center">
+    <span class="d-none">PomoDone</span>
+    <div class="mb-4">
+      <img alt="PomoDone" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-pomodone-e1b379acd155a955f32c2ccf9f9eea88d65b4d7e67552522e9de2ee16e1fe945.jpg" />
+      <a name="pomodone"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About PomoDone</p>
+    <p class="mb-3 f-4">With PomoDone, hack and track your time and boost your productivity by applying Pomodoro technique to your workflow -- eliminate distraction, sharpen focus and prevent burnout.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">PomoDone Lite plan free for 2-years.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41649ffd10&gt;">Productivity</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="polypane" class="text-center">
+    <span class="d-none">Polypane</span>
+    <div class="mb-4">
+      <img alt="Polypane" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-polypane-8b91f190af98d332d4d90edce7fd9eaccd25c682c0d5c63799f457e3f98c9277.jpg" />
+      <a name="polypane"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Polypane</p>
+    <p class="mb-3 f-4">A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Polypane free for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164a26a78&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164a26780&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="iconscout" class="text-center">
+    <span class="d-none">Iconscout</span>
+    <div class="mb-4">
+      <img alt="Iconscout" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-iconscout-ce4182a4c2a361a65498135effa16ac697d2f04805e73ced7c2662788dcbf390.jpg" />
+      <a name="iconscout"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Iconscout</p>
+    <p class="mb-3 f-4">Iconscout is design resources marketplace to get high quality icons, illustrations and stock images.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Download 60 premium icons per month for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4154f73518&gt;">Design</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="mongodb" class="text-center">
+    <span class="d-none">MongoDB</span>
+    <div class="mb-4">
+      <img alt="MongoDB" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/145/image/original-ab78f848b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0fd21219492d713a605f1f1d814222e748a59641b9d7f4eff73a7aaaf82fa02c" />
+      <a name="mongodb"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About MongoDB</p>
+    <p class="mb-3 f-4">A general purpose, document-based, distributed database built for modern application developers and for the cloud era.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41508703f0&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="streamyard" class="text-center">
+    <span class="d-none">StreamYard</span>
+    <div class="mb-4">
+      <img alt="StreamYard" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/cache/uploads/packcompany/image/4f083068cc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=08be4e3905d10857cd51d2eaa68b5cffc38e501716b30560058469e0a578cd3c" />
+      <a name="streamyard"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About StreamYard</p>
+    <p class="mb-3 f-4">The easiest way to create professional live streams.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free access to the Essential Plan while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415088d1a8&gt;">Virtual Events</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="interviewcake" class="text-center">
+    <span class="d-none">InterviewCake</span>
+    <div class="mb-4">
+      <img alt="InterviewCake" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-interviewcake-cc858b1c9c298d1fb459312b00c7bdf5f97ed12c2402f247a7e9ffe4ac579473.jpg" />
+      <a name="interviewcake"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About InterviewCake</p>
+    <p class="mb-3 f-4">Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Access to the full coding interview prep course for 3 weeks.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41508c4748&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="covalence" class="text-center">
+    <span class="d-none">Covalence</span>
+    <div class="mb-4">
+      <img alt="Covalence" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-covalence-3cc912bc85f6c094dd6593e162aed6e3b590c57bfe7bfd6981029f33bf7acd00.jpg" />
+      <a name="covalence"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Covalence</p>
+    <p class="mb-3 f-4">Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Complimentary Front End Fundamentals Course.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41508fd570&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="testmail" class="text-center">
+    <span class="d-none">Testmail</span>
+    <div class="mb-4">
+      <img alt="Testmail" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-testmail-b5895796ebb41b794e3d8d0fcd50db88d9f874446f135dd8febafe69c16501fa.jpg" />
+      <a name="testmail"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Testmail</p>
+    <p class="mb-3 f-4">Get unlimited email addresses and mailboxes for automating email tests with our powerful APIs.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Essential plan while you&#39;re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164a9ef28&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="github-campus-experts" class="text-center">
+    <span class="d-none">Github Campus Experts</span>
+    <div class="mb-4">
+      <img alt="Github Campus Experts" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/115/image/original-dd639ec09c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=53daeb043f9d352bc490012c6c6c8d92ccf5da72386d0cbd4f91a34ded1befab" />
+      <a name="github-campus-experts"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Github Campus Experts</p>
+    <p class="mb-3 f-4">GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Apply to become part of the program while youâ€™re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4154f99010&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="gitkraken" class="text-center">
+    <span class="d-none">GitKraken</span>
+    <div class="mb-4">
+      <img alt="GitKraken" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/22/image/original-8c8baaf186.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3657f82f7bee97e2fed160861bb0f4e1ab2529de8837b3c91e0113f21e5b6542" />
+      <a name="gitkraken"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About GitKraken</p>
+    <p class="mb-3 f-4">GitKraken Client is the most popular Git client for Windows, Mac &amp; Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues  enable interactive pull request management and issue management directly in the client. </p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free GitKraken Client Pro ($59 value) while youâ€™re a student. </p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415ceef418&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="atom" class="text-center">
+    <span class="d-none">Atom</span>
+    <div class="mb-4">
+      <img alt="Atom" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-atom-b2600fd58b4ab395d398afb5af008d2e8596282321ba22f0becbf34383e545dc.jpg" />
+      <a name="atom"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Atom</p>
+    <p class="mb-3 f-4">A hackable text editor for the 21st Century</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Open Source by GitHub, free for everyone.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4155004540&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="gorails" class="text-center">
+    <span class="d-none">GoRails</span>
+    <div class="mb-4">
+      <img alt="GoRails" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-gorails-3a4611966723d05824f5e966e608c3805fa285a05560b9fc2826ccbcf3a25f0e.jpg" />
+      <a name="gorails"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About GoRails</p>
+    <p class="mb-3 f-4">Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free access to all videos and lessons for 12 months.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415504efa0&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="replit" class="text-center">
+    <span class="d-none">Replit</span>
+    <div class="mb-4">
+      <img alt="Replit" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/61/image/original-05e4770d45.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=513646ff4946cad28ee5e95f9fce3666b85ebb97776e62a0f0cc26adf892b3db" />
+      <a name="replit"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Replit</p>
+    <p class="mb-3 f-4">An online IDE that lets you instantly code in over fifty languages. Start learning, building, collaborating and hosting all in one place.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Three free months of the Hacker plan for new users, includes unlimited private repls and multiplayer invites.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164d27920&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164d276a0&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="icons8" class="text-center">
+    <span class="d-none">Icons8</span>
+    <div class="mb-4">
+      <img alt="Icons8" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-icons8-5076338eaef2812dfe4862c9f0db77c583f2c27b6a1c75ff051c69f6a18bf2d9.jpg" />
+      <a name="icons8"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Icons8</p>
+    <p class="mb-3 f-4">Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">3-month All Access subscription with icons, photos, illustrations, and music.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cf9ac28&gt;">Design</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="netwise" class="text-center">
+    <span class="d-none">Netwise</span>
+    <div class="mb-4">
+      <img alt="Netwise" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-netwise-3115149bdeae9b3adfe7c97f0a6b0fe92333b5c767d322071f6d9f1843141140.jpg" />
+      <a name="netwise"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Netwise</p>
+    <p class="mb-3 f-4">Turnkey data centre services for the hosting of critical IT infrastructure systems.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free single unit server colocation package free for 12 months.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cff8878&gt;">Cloud</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415cff8300&gt;">Internet of Things</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="twilio" class="text-center">
+    <span class="d-none">Twilio</span>
+    <div class="mb-4">
+      <img alt="Twilio" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/cache/uploads/packcompany/image/cd560fdb3b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=eadd07297b4b2a4bb0ab1b4c2d8b38cd58b3d5ea166dfa041d7ad20d91effedc" />
+      <a name="twilio"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Twilio</p>
+    <p class="mb-3 f-4">Twilio is a developer platform for communications. Software teams use Twilio APIs to add capabilities like voice, video, and messaging to their applications.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">$50 in Twilio API credits and exclusive in-game items in TwilioQuest. The credit can only be applied to new Twilio accounts.</p>
+
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="thinkful" class="text-center">
+    <span class="d-none">Thinkful</span>
+    <div class="mb-4">
+      <img alt="Thinkful" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-thinkful-5729d69105c1b552a9750da30157674bcc5f8513c42cb400ae3bf76c4f246cbc.jpg" />
+      <a name="thinkful"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Thinkful</p>
+    <p class="mb-3 f-4">Learn Fundamentals of Web Development to launch your career as a developer</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">1 month of access to a web development course.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee3263198&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="pageclip" class="text-center">
+    <span class="d-none">Pageclip</span>
+    <div class="mb-4">
+      <img alt="Pageclip" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-pageclip-12d56d44afa7367feefe5f93ed94e06ae0b54c72306496bb9e4255b949f1c461.jpg" />
+      <a name="pageclip"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Pageclip</p>
+    <p class="mb-3 f-4">A server for your static websites and HTML forms.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free basic plan while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee5da11e8&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="typeform" class="text-center">
+    <span class="d-none">Typeform</span>
+    <div class="mb-4">
+      <img alt="Typeform" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-typeform-55cc067a7c4d306a609e3c9fa5873a76d5a1d7e756f8ea8b61190d66a5c2dbf2.jpg" />
+      <a name="typeform"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Typeform</p>
+    <p class="mb-3 f-4">Interactive forms, surveys &amp; quizzes to engage and grow your audience</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free professional plan for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee606ee48&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee606e858&gt;">Marketing</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="imgbot" class="text-center">
+    <span class="d-none">Imgbot</span>
+    <div class="mb-4">
+      <img alt="Imgbot" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-imgbot-d00715ac3afa892734f37311d54dfeaafd5edd52604916cf5adc11fa47d0489b.jpg" />
+      <a name="imgbot"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Imgbot</p>
+    <p class="mb-3 f-4">Imgbot is a GitHub App that automatically optimizes your images.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free image optimization for all your public and private projects while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41640ad1b8&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="datadog" class="text-center">
+    <span class="d-none">Datadog</span>
+    <div class="mb-4">
+      <img alt="Datadog" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-datadog-cf0a919b6a0d96b858ba497851bc8ceb4b5997e668054818700dc44a517c057d.jpg" />
+      <a name="datadog"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Datadog</p>
+    <p class="mb-3 f-4">Cloud-based infrastructure monitoring.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Pro Account, including 10 servers. Free for 2 years.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee667b1b0&gt;">Security &amp; analytics</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="arduino" class="text-center">
+    <span class="d-none">Arduino</span>
+    <div class="mb-4">
+      <img alt="Arduino" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-arduino-9326bf0e1f42f29a4db15f818395ed0ce4403eca73295bb06a3865e553be995d.jpg" />
+      <a name="arduino"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Arduino</p>
+    <p class="mb-3 f-4">Empower scientists and artists of the future with creative STEM programs.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Arduino Create Maker plan for 6 months and discounts on selected hardware.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee736e890&gt;">Internet of Things</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee736de68&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="stripe" class="text-center">
+    <span class="d-none">Stripe</span>
+    <div class="mb-4">
+      <img alt="Stripe" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-stripe-237d6b07f39b984f738aa58a92c9cb3c4a46856088cd344292db6172fd2ca74f.jpg" />
+      <a name="stripe"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Stripe</p>
+    <p class="mb-3 f-4">Web and mobile payments, built for developers</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Waived transaction fees on first $1000 in revenue processed.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee75d4d78&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="hazeover" class="text-center">
+    <span class="d-none">HazeOver</span>
+    <div class="mb-4">
+      <img alt="HazeOver" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-hazeover-f4e5bf5d97749160ff3a44d3a56d05bcf70c8288b602ab031541e556936dcd2d.jpg" />
+      <a name="hazeover"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About HazeOver</p>
+    <p class="mb-3 f-4">Get focused while working on your projects or studying with HazeOver for Mac.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free app license, including minor updates.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee76e03c0&gt;">Productivity</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="newrelic" class="text-center">
+    <span class="d-none">New Relic</span>
+    <div class="mb-4">
+      <img alt="New Relic" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/cache/uploads/packcompany/157/image/b3d50e7440.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1b51267d7f8e5939174205abfeea4939357e14d79d45a54501bf99c53ff6aeff" />
+      <a name="newrelic"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About New Relic</p>
+    <p class="mb-3 f-4">New Relic is an observability platform that helps fully understand how to improve your software.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free New Relic while you are a student. ($300/month value)</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee781b988&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee781b0f0&gt;">Cloud</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="kodika" class="text-center">
+    <span class="d-none">Kodika</span>
+    <div class="mb-4">
+      <img alt="Kodika" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-kodika-a4a27ba95c73a423eec3f7d7801849d8a16542a0209858a226212ef0faf4ecff.jpg" />
+      <a name="kodika"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Kodika</p>
+    <p class="mb-3 f-4">Build iOS applications with drag &amp; drop.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Kodika Unlimited Pro subscription free for 6 months.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee7905f38&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee7905bf0&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee79058a8&gt;">Mobile</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="popsql" class="text-center">
+    <span class="d-none">PopSQL</span>
+    <div class="mb-4">
+      <img alt="PopSQL" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-popsql-267b34f70ea30ebc5c03cafea1314a35b096fba965870b7def75a63234dfc775.jpg" />
+      <a name="popsql"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About PopSQL</p>
+    <p class="mb-3 f-4">Modern, collaborative SQL editor for your team â€” write queries, visualize data, and share your results.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Premium subscription for PopSQL while you&#39;re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee79bb518&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="tower" class="text-center">
+    <span class="d-none">Tower</span>
+    <div class="mb-4">
+      <img alt="Tower" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-tower-59b3aa17bd8519e8d035d161b618d721fa1c915601b3b0339565d7f4d5876c74.jpg" />
+      <a name="tower"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Tower</p>
+    <p class="mb-3 f-4">The Git client that brings all of Git and GitHub&#39;s power to the desktop, for Mac and Windows.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free license for Tower Pro while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee7add270&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="sentry" class="text-center">
+    <span class="d-none">Sentry</span>
+    <div class="mb-4">
+      <img alt="Sentry" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-sentry-d34ca8315062bbf7780dd021a35cee6bdf69873ff624454e6a6a5f7d4ec5c7ea.jpg" />
+      <a name="sentry"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Sentry</p>
+    <p class="mb-3 f-4">Track errors in every language, framework, and library.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">500,000 events/month with unlimited projects and members while you&#39;re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee7e8c740&gt;">Infrastructure &amp; APIs</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee7e8c4c0&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="mailgun" class="text-center">
+    <span class="d-none">Mailgun</span>
+    <div class="mb-4">
+      <img alt="Mailgun" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/59/image/original-ac7891baf1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=5a16c1ebcdcd181dd33d1b8b7a2f2ad5cb2178dc63b19eeef18acd40eca1d088" />
+      <a name="mailgun"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Mailgun</p>
+    <p class="mb-3 f-4">Powerful APIs that enable you to send, receive and track email effortlessly.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">20,000 free emails and 100 free email validations each month for up to 12 months.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee7f59c68&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="ghdesktop" class="text-center">
+    <span class="d-none">GitHub Desktop</span>
+    <div class="mb-4">
+      <img alt="GitHub Desktop" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-ghdesktop-40ea908c1b55fd3e6356874e76bca24d5d0877001f4fdff29f34c02eacc35a9e.jpg" />
+      <a name="ghdesktop"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About GitHub Desktop</p>
+    <p class="mb-3 f-4">Reduces frustration and makes Git and GitHub workflows more approachable.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Open Source by GitHub, free for everyone.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8048048&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="dashlane" class="text-center">
+    <span class="d-none">Dashlane</span>
+    <div class="mb-4">
+      <img alt="Dashlane" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-dashlane-e80074d029617d44a582a025920ee082b73fc94e5ae6295f00f011964fd90832.jpg" />
+      <a name="dashlane"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Dashlane</p>
+    <p class="mb-3 f-4">Cloud-based password manager.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Dashlane Premium free for 6 months.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee814b490&gt;">Productivity</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="workingcopy" class="text-center">
+    <span class="d-none">WorkingCopy</span>
+    <div class="mb-4">
+      <img alt="WorkingCopy" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-workingcopy-23a688762e1b60042dfc007c15fb0899857f67497e9c5faa031d28a4b878f354.jpg" />
+      <a name="workingcopy"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About WorkingCopy</p>
+    <p class="mb-3 f-4">Powerful Git client for iPhone &amp; iPad.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">All Pro features for free while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee81f9748&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee81f92c0&gt;">Mobile</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="blackfire" class="text-center">
+    <span class="d-none">Blackfire</span>
+    <div class="mb-4">
+      <img alt="Blackfire" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-blackfire-6aa560f98122649cfadc566e706cb9f8221d6cc4fd0adc67ef61fc703ed91505.jpg" />
+      <a name="blackfire"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Blackfire</p>
+    <p class="mb-3 f-4">Code performance measurement tool. Find &amp; fix bottlenecks.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Profiler subscription for students and teachers.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8351208&gt;">Security &amp; analytics</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="gitpod" class="text-center">
+    <span class="d-none">Gitpod</span>
+    <div class="mb-4">
+      <img alt="Gitpod" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/41/image/original-db1ec47549.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=886fa6e6652285e9cc19311b5178d9a8cb775f0e14388ec00857615ee41bc16b" />
+      <a name="gitpod"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Gitpod</p>
+    <p class="mb-3 f-4"> Always ready to code - spin up fresh, automated dev environments for each task, in the cloud, in seconds.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free personal plan subscription for six months for students.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8416008&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8415d38&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="browserstack" class="text-center">
+    <span class="d-none">BrowserStack</span>
+    <div class="mb-4">
+      <img alt="BrowserStack" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-browserstack-3eab3594be4637f085deb6e8c9606635102a7f5f1f6eb678f7fb73e7e1c941f2.jpg" />
+      <a name="browserstack"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About BrowserStack</p>
+    <p class="mb-3 f-4">Test your web apps with BrowserStack&#39;s Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8597fa8&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="adafruit" class="text-center">
+    <span class="d-none">Adafruit</span>
+    <div class="mb-4">
+      <img alt="Adafruit" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-adafruit-2ec09c848ff58995340637f80d0e6ad347b09d3b0b5aa3da0a742b7d50819049.jpg" />
+      <a name="adafruit"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Adafruit</p>
+    <p class="mb-3 f-4">Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">One year of Adafruit IO+ and discounts on selected hardware.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee86ae4f0&gt;">Internet of Things</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee86adf28&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="themeisle" class="text-center">
+    <span class="d-none">Themeisle</span>
+    <div class="mb-4">
+      <img alt="Themeisle" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-themeisle-7f83f8813152327174e4339c686e405ebc393acd9ecbe32714e3038c83a7d640.jpg" />
+      <a name="themeisle"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Themeisle</p>
+    <p class="mb-3 f-4">Neveâ€™s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free year of Neve Agency WordPress theme exclusively for students.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee87cb950&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee87cb608&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="cryptolens" class="text-center">
+    <span class="d-none">Cryptolens</span>
+    <div class="mb-4">
+      <img alt="Cryptolens" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-cryptolens-e4b8d2d8a685beb9aa43a8fe750d21aabe3770f567d7a8b02d321d118f7ecfcc.jpg" />
+      <a name="cryptolens"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Cryptolens</p>
+    <p class="mb-3 f-4">License and sell your software securely.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">10 licenses and any number of end-users for free for students.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee88986a8&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee889fdb8&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="xojo" class="text-center">
+    <span class="d-none">Xojo</span>
+    <div class="mb-4">
+      <img alt="Xojo" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-xojo-0e993ca1f1466e0de78883bc5f68d6d2376250ef8f5a025dd03ea6b003229c12.jpg" />
+      <a name="xojo"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Xojo</p>
+    <p class="mb-3 f-4">A cross-platform development tool for making native apps for the Desktop.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Xojo Desktop license free while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee89fa9d8&gt;">Design</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee89fa4b0&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="travis" class="text-center">
+    <span class="d-none">Travis CI</span>
+    <div class="mb-4">
+      <img alt="Travis CI" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-travis-e2f839c66f8d7138d47843053872935cee7c534f3750421f2c19e483fb75f040.jpg" />
+      <a name="travis"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Travis CI</p>
+    <p class="mb-3 f-4">Continuous integration platform for open source and private projects</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Private builds for free while you&#39;re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8c3fb08&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8c3f3d8&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="scrapinghub" class="text-center">
+    <span class="d-none">Zyte</span>
+    <div class="mb-4">
+      <img alt="Zyte" height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/77/image/original-65a7b39ade.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8984f9a4f7bc2dc329b1db0f49b577ffd23911ec8b19724a19f67b0a91428226" />
+      <a name="scrapinghub"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Zyte</p>
+    <p class="mb-3 f-4">Zyte&#39;s Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8f34480&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="codecov" class="text-center">
+    <span class="d-none">Codecov</span>
+    <div class="mb-4">
+      <img alt="Codecov" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-codecov-ab4d326cea5adef2c00f5e6e588ecc7f2b60a89df229a18766ee2f5dd4cf0e3c.jpg" />
+      <a name="codecov"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Codecov</p>
+    <p class="mb-3 f-4">Codecov makes it easy to implement code coverage to develop healthier code</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free access to Codecov on public and private repositories.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee8fc3b08&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="restyled" class="text-center">
+    <span class="d-none">Restyled</span>
+    <div class="mb-4">
+      <img alt="Restyled" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-restyled-e81aa2a2149e53b16494e10ac4fa3738f9f24bbee01d0b1e0274a9f3f64c2daf.jpg" />
+      <a name="restyled"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Restyled</p>
+    <p class="mb-3 f-4">With Restyled, automatically re-format Pull Requests to have consistent style.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Run Restyled for free on private repositories while you&#39;re a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x0000555ee904f658&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="blockchair" class="text-center">
+    <span class="d-none">Blockchair</span>
+    <div class="mb-4">
+      <img alt="Blockchair" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-blockchair-514559da94330577a646e78ca35c95fd48d4d9d9ed297ca8553cfb0bc8251510.jpg" />
+      <a name="blockchair"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Blockchair</p>
+    <p class="mb-3 f-4">Connect to the world of blockchains through Blockchairâ€™s professional APIs â€” supports most major cryptocurrencies.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">100,000 free requests.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41500a2da8&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="freshpaint" class="text-center">
+    <span class="d-none">Freshpaint</span>
+    <div class="mb-4">
+      <img alt="Freshpaint" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-freshpaint-94afc9a6f0ecfc4245223e3cdcd28cf0296bb3a32d4f43da11d0eee3fe23874c.jpg" />
+      <a name="freshpaint"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Freshpaint</p>
+    <p class="mb-3 f-4">Integrate your marketing and analytics tools with one click.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Freshpaint Growth Plan while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164305758&gt;">Marketing</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41643052d0&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="deepscan" class="text-center">
+    <span class="d-none">DeepScan</span>
+    <div class="mb-4">
+      <img alt="DeepScan" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-deepscan-8697f86df0b019b7a4652625701998e9ca2b72457d6e338febb663c4d528853e.jpg" />
+      <a name="deepscan"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About DeepScan</p>
+    <p class="mb-3 f-4">DeepScan is a platform for building better and more reliable JavaScript apps.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free 6-month trial while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c219400&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="sqlgate" class="text-center">
+    <span class="d-none">SQLGate</span>
+    <div class="mb-4">
+      <img alt="SQLGate" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-sqlgate-f82fc22b71d9bb612a942c06340801c2412b56f2a692d2112ad7f5ecdbe9cd2d.jpg" />
+      <a name="sqlgate"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About SQLGate</p>
+    <p class="mb-3 f-4">Simple but powerful IDE for multiple SQL databases.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Access to most Standard Subscription features for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4158584990&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="dailybot" class="text-center">
+    <span class="d-none">DailyBot</span>
+    <div class="mb-4">
+      <img alt="DailyBot" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-dailybot-7a097b14b61e6be0d0e586ff3948ce9433d362a011a14a3c7232f56620e61a69.jpg" />
+      <a name="dailybot"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About DailyBot</p>
+    <p class="mb-3 f-4">Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">DailyBot Business plan free for 10 users for 6 months.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41585e7298&gt;">Productivity</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="kaltura" class="text-center">
+    <span class="d-none">Kaltura</span>
+    <div class="mb-4">
+      <img alt="Kaltura" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-kaltura-4c07dd8b1d10f46047d19ab83bc72c2bd3b780efc7b4f0d843ad72433176830c.jpg" />
+      <a name="kaltura"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Kaltura</p>
+    <p class="mb-3 f-4">Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">$10K/year in Kaltura VPaaS credits while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c36c320&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="cartodb" class="text-center">
+    <span class="d-none">CARTO</span>
+    <div class="mb-4">
+      <img alt="CARTO" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-cartodb-5e3e0e113168e937bbb78dbd6d163a118e44d540a142ce936e5b50169105b632.jpg" />
+      <a name="cartodb"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About CARTO</p>
+    <p class="mb-3 f-4">An open and powerful platform for spatial data analysis, visualization, and application creation.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c3f50f8&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="vaadin" class="text-center">
+    <span class="d-none">Vaadin</span>
+    <div class="mb-4">
+      <img alt="Vaadin" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-vaadin-2922be7f0ac602b642d31e425173f2315a84925d4729f4f8160af775cda8cc7c.jpg" />
+      <a name="vaadin"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Vaadin</p>
+    <p class="mb-3 f-4">Best open source Java framework for building Progressive Web Applications.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Pro subscription license to access the commercial components and tools.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c489708&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="accesslint" class="text-center">
+    <span class="d-none">AccessLint</span>
+    <div class="mb-4">
+      <img alt="AccessLint" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-accesslint-dbf3ba0f74c23c167a1acbe437a3c1bc032d2a069111ded7410f8d6069776607.jpg" />
+      <a name="accesslint"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About AccessLint</p>
+    <p class="mb-3 f-4">AccessLint brings automated web accessibility testing into your development workflow.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Unlimited use for public and private repositories while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c4e9090&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="lingohub" class="text-center">
+    <span class="d-none">Lingohub</span>
+    <div class="mb-4">
+      <img alt="Lingohub" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-lingohub-f1505907e8dcb4b3ba439139a18a6da7bbcf03b825048f7a602e3e3ff9cd18ec.jpg" />
+      <a name="lingohub"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Lingohub</p>
+    <p class="mb-3 f-4">Translation management service for web, desktop and mobile apps.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Professional Plan containing 10,000 text segments for students.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c522bb0&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c522890&gt;">Infrastructure &amp; APIs</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c5225e8&gt;">Productivity</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="poeditor" class="text-center">
+    <span class="d-none">POEditor</span>
+    <div class="mb-4">
+      <img alt="POEditor" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-poeditor-32ecccedfae37c005244943927ac49dec7d9e96658b0c8db889761b92c0fc44a.jpg" />
+      <a name="poeditor"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About POEditor</p>
+    <p class="mb-3 f-4">POEditor is a highly scalable localization management platform for teams.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Plus Plan for free for one year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c57eb18&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c57e690&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="astra" class="text-center">
+    <span class="d-none">AstraSecurity</span>
+    <div class="mb-4">
+      <img alt="AstraSecurity" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-astra-e5218c3ccb868363497462d93468b2b961fb572891878ed2a2dfc888a920c131.jpg" />
+      <a name="astra"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About AstraSecurity</p>
+    <p class="mb-3 f-4">Security suite for your website - firewall, malware scanner &amp; managed bug bounty platform.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">6 month access to website firewall &amp; malware scanner</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c62f378&gt;">Security &amp; analytics</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="lambdatest" class="text-center">
+    <span class="d-none">LambdaTest</span>
+    <div class="mb-4">
+      <img alt="LambdaTest" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-lambdatest-e8186523e6cbf6c94ca2d237a8cdc241be45717a74d148e26b74d3b1d9630291.jpg" />
+      <a name="lambdatest"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About LambdaTest</p>
+    <p class="mb-3 f-4">Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free LambdaTest Live Plan for one year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c678a00&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="symfonycasts" class="text-center">
+    <span class="d-none">SymfonyCasts</span>
+    <div class="mb-4">
+      <img alt="SymfonyCasts" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-symfonycasts-275eeaf13b17d2b12f32480aeba3ffb0f5040e81b3b983d72931e1c005d53307.jpg" />
+      <a name="symfonycasts"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About SymfonyCasts</p>
+    <p class="mb-3 f-4">Master Symfony and PHP with video tutorials and code challenges.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free 3-month subscription for students.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c6b3650&gt;">Learn</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="codescene" class="text-center">
+    <span class="d-none">CodeScene</span>
+    <div class="mb-4">
+      <img alt="CodeScene" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-codescene-4dc2abaa79ec75375cd206cac21eb3aa5f51a9fa8e5bb82f5266fd4b13438109.jpg" />
+      <a name="codescene"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About CodeScene</p>
+    <p class="mb-3 f-4">A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">A free Student account to analyze private GitHub repositories.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415014f8c8&gt;">Security &amp; analytics</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="baremetrics" class="text-center">
+    <span class="d-none">Baremetrics</span>
+    <div class="mb-4">
+      <img alt="Baremetrics" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-baremetrics-a0f78e9a8ce5e677cec024c73aa4a26c9ea55a86e3cd1ee2ff67eeef8bb95542.jpg" />
+      <a name="baremetrics"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Baremetrics</p>
+    <p class="mb-3 f-4">Metrics, dunning, and engagement tools for SaaS &amp; subscription businesses.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4154d338c0&gt;">Marketing</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="configcat" class="text-center">
+    <span class="d-none">ConfigCat</span>
+    <div class="mb-4">
+      <img alt="ConfigCat" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-configcat-f41be3725b8f3e444154173f701114eb2e47fc939e69b0ffa7dcfdabf31babb5.jpg" />
+      <a name="configcat"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About ConfigCat</p>
+    <p class="mb-3 f-4">Learn feature flags with the industry leading feature flag service.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">1000 feature flags, âˆž users for free.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4158683a58&gt;">Developer tools</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4158683828&gt;">Infrastructure &amp; APIs</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="honeybadger" class="text-center">
+    <span class="d-none">Honeybadger</span>
+    <div class="mb-4">
+      <img alt="Honeybadger" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-honeybadger-287f631fbf925a4dd7a57300fa5d6adce21306d2107a308fb3b5d076805c0a93.jpg" />
+      <a name="honeybadger"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Honeybadger</p>
+    <p class="mb-3 f-4">The web developer&#39;s secret weapon: exception, uptime, and cron monitoring that&#39;s so awesome, you&#39;ll wish your site had more errors.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Small account for 1 year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4154d66a68&gt;">Security &amp; analytics</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="bettercodehub" class="text-center">
+    <span class="d-none">BetterCodeHub</span>
+    <div class="mb-4">
+      <img alt="BetterCodeHub" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-bettercodehub-8c6a3ca6b12e3c9f1c4719a92005572d9b9006cde83784b48ad93f2ea0fe5771.jpg" />
+      <a name="bettercodehub"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About BetterCodeHub</p>
+    <p class="mb-3 f-4">Better Code Hub provides a definition of done for code quality and actionable refactoring feedback for every push and pull request.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">A free upgrade to an Individual license to analyse your personal private repos.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4164191700&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="simpleanalytics" class="text-center">
+    <span class="d-none">SimpleAnalytics</span>
+    <div class="mb-4">
+      <img alt="SimpleAnalytics" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-simpleanalytics-c8f4bfbc16a694c67685b2f01f9b614475fdb85222644d6990924284a3a56286.jpg" />
+      <a name="simpleanalytics"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About SimpleAnalytics</p>
+    <p class="mb-3 f-4">Privacy-friendly analytics with a simple interface and API.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Starter plan free for one year, including 100k page views per month.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41644cf278&gt;">Infrastructure &amp; APIs</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f41644cf098&gt;">Marketing</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="doppler" class="text-center">
+    <span class="d-none">Doppler </span>
+    <div class="mb-4">
+      <img alt="Doppler " height="75px" style="object-fit: contain; max-width: 100%" src="https://github-education-web.s3.amazonaws.com/prd/uploads/packcompany/260/image/original-4a61f94e9d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIMIACABW7BKMVLCQ%2F20220707%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220707T154618Z&amp;X-Amz-Expires=900&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=393cf695e2ab9d23074b4a64b03a6a2395a842fcc083b842fc4d871839768eef" />
+      <a name="doppler"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Doppler </p>
+    <p class="mb-3 f-4">A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free Doppler subscription while the user is an active student.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c75a1d0&gt;">Infrastructure &amp; APIs</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c759eb0&gt;">Security &amp; analytics</span>
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f415c759c30&gt;">Developer tools</span>
+  </dd>
+</dl>
+
+      <dl class="rounded-2 p-4"  style="border: 1px solid rgba(27, 31, 35, 0.1);">
+  <dt id="appfigures" class="text-center">
+    <span class="d-none">Appfigures</span>
+    <div class="mb-4">
+      <img alt="Appfigures" height="75px" style="object-fit: contain; max-width: 100%" src="/assets/pack/logo-appfigures-6b1965fb78304620fd5efbcc106accbd806e4654d702f0a26000cfff898918f8.jpg" />
+      <a name="appfigures"></a>
+    </div>
+  </dt>
+  <dd>
+    <p class="text-bold">About Appfigures</p>
+    <p class="mb-3 f-4">App Store analytics, optimization, and intelligence.</p>
+      <p class="text-bold">Benefit</p>
+      <p class="f5 mb-4">Free access to analytics tracking, alerts, and the complete line of App Store Optimization tools for one year.</p>
+
+          <span class="Label--small Label--blue-standard" title="#&lt;Tagging:0x00007f4158719be8&gt;">Marketing</span>
+  </dd>
+</dl>
+
+  </dl>
+</div>
+
+</div>
+
+
+<div>
+</div>
+
+        <script nonce="QQwVn4kS5G18D6UF3Fe4fQ==">
+//<![CDATA[
+
+
+      (function() {
+  function createEvent(name, container) {
+    var event = undefined;
+    if (typeof(Event) === 'function') {
+      event = new Event(name);
+    } else {
+      event = document.createEvent('Event');
+      event.initEvent(name, true, true);
+    }
+    event.container = container
+    return event;
+  }
+
+  function _runAfterDocumentLoaded(callback) {
+    document.addEventListener("DOMContentLoaded", callback);
+  }
+
+  function _makeRequest(currentRetryCount) {
+    var request = new XMLHttpRequest();
+    var asyncRequest = true;
+    var SUCCESS = 200;
+    var ERROR = 400;
+
+    request.open('GET', '/globalcampus/nav_item', asyncRequest);
+
+    var headers = {};
+    var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+    if (csrfTokenElement)
+      headers['X-CSRF-Token'] = csrfTokenElement.content
+
+    Object.keys(headers).map(function(key) {
+      request.setRequestHeader(key, headers[key]);
+    });
+
+    request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+
+    request.onreadystatechange = function() {
+      if (request.readyState === 4) {
+        if (request.status >= SUCCESS && request.status < ERROR) {
+          var container = document.getElementById('render_async_4bcf9a82b21657208778');
+
+          // If user navigated away before the request completed
+          if (!container) return;
+
+          container.outerHTML = request.response;
+
+          var loadEvent = createEvent('render_async_load', container);
+          document.dispatchEvent(loadEvent);
+
+        } else {
+          var skipErrorMessage = false;
+
+          if (skipErrorMessage) return;
+
+          var container = document.getElementById('render_async_4bcf9a82b21657208778');
+          if (!container) return;
+
+          container.outerHTML = '';
+
+          var errorEvent = createEvent(
+            "render_async_error",
+            container
+          );
+          errorEvent.retryCount = currentRetryCount
+
+          document.dispatchEvent(errorEvent);
+        }
+      }
+    };
+
+    var body = "";
+    request.send(body);
+  };
+
+
+  var _renderAsyncFunction = _makeRequest;
+
+  var _interval;
+
+
+  _runAfterDocumentLoaded(_renderAsyncFunction);
+})();
+
+
+//]]>
+</script>  <script nonce="QQwVn4kS5G18D6UF3Fe4fQ==">
+//<![CDATA[
+
+
+      (function() {
+  function createEvent(name, container) {
+    var event = undefined;
+    if (typeof(Event) === 'function') {
+      event = new Event(name);
+    } else {
+      event = document.createEvent('Event');
+      event.initEvent(name, true, true);
+    }
+    event.container = container
+    return event;
+  }
+
+  function _runAfterDocumentLoaded(callback) {
+    document.addEventListener("DOMContentLoaded", callback);
+  }
+
+  function _makeRequest(currentRetryCount) {
+    var request = new XMLHttpRequest();
+    var asyncRequest = true;
+    var SUCCESS = 200;
+    var ERROR = 400;
+
+    request.open('GET', '/globalcampus/exchange/nav_item', asyncRequest);
+
+    var headers = {};
+    var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+    if (csrfTokenElement)
+      headers['X-CSRF-Token'] = csrfTokenElement.content
+
+    Object.keys(headers).map(function(key) {
+      request.setRequestHeader(key, headers[key]);
+    });
+
+    request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+
+    request.onreadystatechange = function() {
+      if (request.readyState === 4) {
+        if (request.status >= SUCCESS && request.status < ERROR) {
+          var container = document.getElementById('render_async_06d29a93a01657208778');
+
+          // If user navigated away before the request completed
+          if (!container) return;
+
+          container.outerHTML = request.response;
+
+          var loadEvent = createEvent('render_async_load', container);
+          document.dispatchEvent(loadEvent);
+
+        } else {
+          var skipErrorMessage = false;
+
+          if (skipErrorMessage) return;
+
+          var container = document.getElementById('render_async_06d29a93a01657208778');
+          if (!container) return;
+
+          container.outerHTML = '';
+
+          var errorEvent = createEvent(
+            "render_async_error",
+            container
+          );
+          errorEvent.retryCount = currentRetryCount
+
+          document.dispatchEvent(errorEvent);
+        }
+      }
+    };
+
+    var body = "";
+    request.send(body);
+  };
+
+
+  var _renderAsyncFunction = _makeRequest;
+
+  var _interval;
+
+
+  _runAfterDocumentLoaded(_renderAsyncFunction);
+})();
+
+
+//]]>
+</script>
+    </div>
+
+    <footer class="footer mt-6 flex-shrink-0">
+  <div class="container-xl p-responsive">
+    <div class="d-flex flex-wrap py-5 mb-5">
+      <div class="col-12 col-lg-4 mb-5">
+        <svg role="img" height="30" width="84" class="octicon octicon-github-logo" aria-label="logo-github">
+          <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-logo-github"></use>
+        </svg>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4">
+        <h2 class="h4 mb-3 text-mono text-normal">Product</h2>
+        <ul class="list-style-none color-fg-muted f4">
+          <li class="lh-condensed mb-3"><a href="https://github.com/features" class="Link--secondary">Features</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/security" class="Link--secondary">Security</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/enterprise" class="Link--secondary">Enterprise</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/customer-stories" class="Link--secondary">Customer stories</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/pricing" class="Link--secondary">Pricing</a></li>
+          <li class="lh-condensed mb-3"><a href="https://resources.github.com" class="Link--secondary">Resources</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h4 mb-3 text-mono text-normal">Platform</h2>
+        <ul class="list-style-none f4">
+          <li class="lh-condensed mb-3"><a href="https://docs.github.com/en/developers/overview/about-githubs-apis" class="Link--secondary">Developer API</a></li>
+          <li class="lh-condensed mb-3"><a href="http://partner.github.com/" class="Link--secondary">Partners</a></li>
+          <li class="lh-condensed mb-3"><a href="https://atom.io" class="Link--secondary">Atom</a></li>
+          <li class="lh-condensed mb-3"><a href="http://electronjs.org" class="Link--secondary">Electron</a></li>
+          <li class="lh-condensed mb-3"><a href="https://desktop.github.com/" class="Link--secondary">GitHub Desktop</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h4 mb-3 text-mono text-normal">Support</h2>
+        <ul class="list-style-none f4">
+          <li class="lh-condensed mb-3"><a class="Link--secondary" href="https://docs.github.com">Docs</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/orgs/github-community/discussions/categories/github-education" class="Link--secondary">Community Forum</a></li>
+          <li class="lh-condensed mb-3"><a href="https://services.github.com/" class="Link--secondary">Professional Services</a></li>
+          <li class="lh-condensed mb-3"><a href="https://githubstatus.com/" class="Link--secondary">Status</a></li>
+          <li class="lh-condensed mb-3"><a class="Link--secondary" href="https://github.com/contact">Contact GitHub</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
+        <h2 class="h4 mb-3 text-mono text-normal">Company</h2>
+        <ul class="list-style-none f4">
+          <li class="lh-condensed mb-3"><a class="Link--secondary" href="https://github.com/about">About</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.blog" class="Link--secondary">Blog</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/about/careers" class="Link--secondary">Careers</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/about/press" class="Link--secondary">Press</a></li>
+          <li class="lh-condensed mb-3"><a href="https://socialimpact.github.com/" class="Link--secondary">Social Impact</a></li>
+          <li class="lh-condensed mb-3"><a href="https://shop.github.com" class="Link--secondary">Shop</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="color-bg-subtle">
+    <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-row-reverse flex-items-center">
+      <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra">
+        <li class="mr-3">
+          <a href="https://twitter.com/github" title="GitHub on Twitter" style="color: #959da5;">
+            <svg role="img" height="18" width="22" class="icon-twitter icon" fill="currentColor" aria-label="Github Twitter link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-twitter"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.facebook.com/GitHub" title="GitHub on Facebook" style="color: #959da5;">
+            <svg role="img" height="18" width="22" class="icon-facebook icon" fill="currentColor" aria-label="Github Facebook link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-facebook"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="mr-3">
+          <a href="https://www.youtube.com/github" title="GitHub on YouTube" style="color: #959da5;">
+            <svg role="img" height="18" width="22" class="icon-youtube icon" fill="currentColor" aria-label="Github Youtube link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-youtube"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="mr-3 flex-self-start">
+          <a href="https://www.linkedin.com/company/github" title="GitHub on Linkedin" style="color: #959da5;">
+            <svg role="img" height="18" width="22" class="icon-linkedin icon" fill="currentColor" aria-label="Github LinkedIn link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-linkedin"></use>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/github" title="GitHub's organization" style="color: #959da5;">
+            <svg role="img" height="20" width="20" class="icon-mark-github icon" fill="currentColor" aria-label="Github link">
+              <use xlink:href="/assets/icons-d1da4113743669a6ab36695c6afca611b166b8c37b936070160254f5d62c709e.svg#icon-mark-github"></use>
+            </svg>
+          </a>
+        </li>
+      </ul>
+      <ul class="list-style-none d-flex color-fg-muted">
+        <li class="mr-3">Â© 2022 GitHub, Inc.</li>
+        <li class="mr-3"><a href="https://github.com/site/terms" class="Link--secondary">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" class="Link--secondary">Privacy</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+        <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+    <noscript>
+      <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4xyz&p_id=Twitter" />
+      <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4xyz&p_id=Twitter" />
+    </noscript>
+
+
+    <script src="/assets/components-f617af2b620a7ba9d4f93bf5af232b3ed94e9b70783845cc8da3db33ee6822ce.js" crossorigin="anonymous" integrity="sha256-9hevK2IKe6nU+Tv1ryMrPtlOm3B4OEXMjaPbM+5oIs4="></script>
+  </body>
+</html>
+Ê5![[Q           bÆÿýDwœ¸bÆÿÊ   J    O^partitionKey=%28https%2Cgithub.com%29,:https://education.github.com/pack strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 OK
+server: nginx/1.15.12
+date: Thu, 07 Jul 2022 15:46:18 GMT
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"792087bd99fe4ca47d5a76473030a64c"
+cache-control: max-age=0, private, must-revalidate
+content-security-policy: default-src 'self' dwa5x7aod66zk.cloudfront.net; object-src 'self'; frame-src *.vimeo.com platform.twitter.com connect.facebook.net *.facebook.com speakerdeck.com *.youtube.com *.youtube-nocookie.com embed.twitch.tv; connect-src 'self' github-education-web.s3.amazonaws.com *.mapbox.com *.clearbit.com www.google.com *.githubusercontent.com geoip-js.com *.virtualearth.net *.bing.com *.virtualearth.net api.github.com; img-src 'self' blob: dwa5x7aod66zk.cloudfront.net data: github.com *.mapbox.com *.clearbit.com avatars.githubusercontent.com user-images.githubusercontent.com github-education-web.s3.amazonaws.com analytics.twitter.com t.co t.com *.facebook.com *.twitter.com *.youtube.com raw.githubusercontent.com static-cdn.jtvnw.net dl.airtable.com *.bing.com *.virtualearth.net; font-src 'self' dwa5x7aod66zk.cloudfront.net; script-src 'self' dwa5x7aod66zk.cloudfront.net www.google.com api.demandbase.com speakerdeck.com platform.twitter.com connect.facebook.net *.facebook.com s3-eu-west-1.amazonaws.com/share.typeform.com/* *.github.com *.githubassets.com js.maxmind.com static.ads-twitter.com snap.licdn.com geoip-js.com embed.twitch.tv analytics.twitter.com *.bing.com *.virtualearth.net *.jquery.com *.cloudflare.com *.bootstrapcdn.com 'nonce-QQwVn4kS5G18D6UF3Fe4fQ=='; style-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-inline' www.google.com ajax.googleapis.com *.github.com *.bing.com *.virtualearth.net
+x-runtime: 1.241322
+strict-transport-security: max-age=31536000
+x-github-backend: Kubernetes
+x-github-request-id: B450:0D48:276831:CF45E6:62C6FFC0
+X-Firefox-Spdy: h2
+ original-response-headers server: nginx/1.15.12
+date: Thu, 07 Jul 2022 15:46:18 GMT
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"792087bd99fe4ca47d5a76473030a64c"
+cache-control: max-age=0, private, must-revalidate
+content-security-policy: default-src 'self' dwa5x7aod66zk.cloudfront.net; object-src 'self'; frame-src *.vimeo.com platform.twitter.com connect.facebook.net *.facebook.com speakerdeck.com *.youtube.com *.youtube-nocookie.com embed.twitch.tv; connect-src 'self' github-education-web.s3.amazonaws.com *.mapbox.com *.clearbit.com www.google.com *.githubusercontent.com geoip-js.com *.virtualearth.net *.bing.com *.virtualearth.net api.github.com; img-src 'self' blob: dwa5x7aod66zk.cloudfront.net data: github.com *.mapbox.com *.clearbit.com avatars.githubusercontent.com user-images.githubusercontent.com github-education-web.s3.amazonaws.com analytics.twitter.com t.co t.com *.facebook.com *.twitter.com *.youtube.com raw.githubusercontent.com static-cdn.jtvnw.net dl.airtable.com *.bing.com *.virtualearth.net; font-src 'self' dwa5x7aod66zk.cloudfront.net; script-src 'self' dwa5x7aod66zk.cloudfront.net www.google.com api.demandbase.com speakerdeck.com platform.twitter.com connect.facebook.net *.facebook.com s3-eu-west-1.amazonaws.com/share.typeform.com/* *.github.com *.githubassets.com js.maxmind.com static.ads-twitter.com snap.licdn.com geoip-js.com embed.twitch.tv analytics.twitter.com *.bing.com *.virtualearth.net *.jquery.com *.cloudflare.com *.bootstrapcdn.com 'nonce-QQwVn4kS5G18D6UF3Fe4fQ=='; style-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-inline' www.google.com ajax.googleapis.com *.github.com *.bing.com *.virtualearth.net
+set-cookie: _education_session=ei83amorWmUzL25qZU9ETUtmLzdpeEhGNUNudXlaNkFmbCtMenBSZjBNTEozZ1J0UnhHc2hMQ1JwUjh2L0plZ0JvdmdDYStXc2FXN3pYYzZ3K1VCRDF6dmE5Q2NHUVE4ODRXREpDZFNOaXhHZ09YUkdxb09icHNxVFpLR0Qyb3dacDFEMUluTVJoZFl3aEQ0S0R0SDFCS0wyemJYank1YlVONEFDUzk0ckptUlJFQ2hmZm40VUI1WVhncHJVNVBNUWJocWlkN0c3WnE3Sm9LNzVHN3o0QzQzWmpaYlRhT09OaHYwaUMzeE0zb0ZkTzRpT0F5aG5GRmxYdExPaDVweEN5bWpsOVkzbUtja2t2SGNSK1ZsZ2VJRHRkRXR1R3RxOEdrZkV5b3NrUEdCR1FjVFc5azloeC8xVDgvdS9sSWkyNXhYaWM1cFZsNkprMjVYWG9LTWovbmJaQVBsSGpmMmoyWHVsT0NIdUFva2svZnA0Ukg1Q2JHc2ZnUllGUXdXVE43UW5aM2NLSVlhWlA2aWF3dzlvZkRoWGE0cWRrajVoTytsU2s1MHBQSEdMK1Y5TmZJZ3JlZEJDdEhLV3Z0MkJVTjJ1TEFLMlE2c1kyaWJVRFEvdC92bEZKZzNaeGR5Z1M1blJmbkpVeDRuSVJGUnNWdkRGU2VMM0ZIYkZJOFZWOC9QM1F4Z1luMXNpMGp0TkYvcWFGbWFkYTZJbXBVUGZnRTU4WjBIUGRqcWltMzViQS9tZGk4UWxXclo0a25JRlZHQ2FQbS9XSmc1NEZ2VlBkODkzT1VQTWw4STQ2emlHWGliMnE4M0JyZncxL1p0ZWtXYnQrQVBYQlpLVDIvR0syc05BUXpOckJhQmFMSllqckY3Mmc9PS0taFlaeURvdFlFT3YrRFNGWStiTHYvdz09--e79f46bcac1983af21e565fe145619e272eb6836; path=/; secure; HttpOnly
+x-runtime: 1.241322
+strict-transport-security: max-age=31536000
+x-github-backend: Kubernetes
+x-github-request-id: B450:0D48:276831:CF45E6:62C6FFC0
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0  Œ

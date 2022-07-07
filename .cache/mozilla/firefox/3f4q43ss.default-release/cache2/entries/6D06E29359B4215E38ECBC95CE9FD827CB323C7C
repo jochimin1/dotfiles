@@ -1,0 +1,229 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head id="head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	SNFP
+</title><link rel="shortcut icon" href="../favicon.ico" /><link href="../Styles/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" /><link href="../Styles/bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet" /><link href="../Styles/dist/css/timeline.css" rel="stylesheet" /><link href="../Styles/dist/css/snfp.css" rel="stylesheet" /><link href="../Styles/bower_components/morrisjs/morris.css" rel="stylesheet" /><link href="../Styles/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" /><link href="../Styles/bootstrap-datepicker/bootstrap-datepicker3.min.css" rel="stylesheet" /><link href="../Styles/Loading.css" rel="stylesheet" /><link href="../Styles/Customize.css" rel="stylesheet" />
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src='/certificados/Styles/bower_components/jquery/dist/jquery.min.js'></script>
+    <script type="text/javascript" src='/certificados/Scripts/js/jquery-ui.js'></script>
+    <script type="text/javascript" src='/certificados/Styles/bower_components/bootstrap/dist/js/bootstrap.min.js'></script>
+    <script type="text/javascript" src='/certificados/Styles/bower_components/metisMenu/dist/metisMenu.min.js'></script>
+    <script type="text/javascript" src='/certificados/Styles/bower_components/raphael/raphael-min.js'></script>
+    <script type="text/javascript" src='/certificados/Scripts/bootstrap-datepicker/bootstrap-datepicker.min.js'></script>
+    <script type="text/javascript" src='/certificados/Scripts/bootstrap-datepicker/bootstrap-datepicker.es.min.js'></script>
+    <script type="text/javascript" src='/certificados/Scripts/bootbox/bootbox.min.js'></script>
+    <script type="text/javascript" src='/certificados/Styles/dist/js/snfp.js'></script>
+    
+
+    <style>
+        .headercenter th {
+            text-align: center;
+        }
+
+        .headercenter tr {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./Default.aspx" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/certificados/WebResource.axd?d=3aFbBSKaxL-O7dZa4RulyfxaZ556ROr8djp0DeO-1hhbD69yT0_H-2bhXaVne9KmE6n_nMLC_-UoMm1cgGgs4Chd1TmRgtgREfLRFnduvl01&amp;t=637811585229275428" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"es-DO","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-‚àû","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"‚àû","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‚Ä∞","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"a. m.","Calendar":{"MinSupportedDateTime":"\/Date(-62135582400000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, d \u0027de\u0027 MMMM \u0027de\u0027 yyyy h:mm:ss tt","LongDatePattern":"dddd, d \u0027de\u0027 MMMM \u0027de\u0027 yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"d \u0027de\u0027 MMMM","PMDesignator":"p. m.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d/M/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM \u0027de\u0027 yyyy","AbbreviatedDayNames":["dom.","lun.","mar.","mi√©.","jue.","vie.","s√°b."],"ShortestDayNames":["DO","LU","MA","MI","JU","VI","SA"],"DayNames":["domingo","lunes","martes","mi√©rcoles","jueves","viernes","s√°bado"],"AbbreviatedMonthNames":["ene.","feb.","mar.","abr.","may.","jun.","jul.","ago.","sep.","oct.","nov.","dic.",""],"MonthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",""],"IsReadOnly":true,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["ene.","feb.","mar.","abr.","may.","jun.","jul.","ago.","sep.","oct.","nov.","dic.",""],"MonthGenitiveNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",""]},"eras":[1,"d. C.",null,0]};//]]>
+</script>
+
+<script src="/certificados/ScriptResource.axd?d=_g_ly1TvPemyDF-mbsOEY8kMNEGlyejk6fNU6RbE2kciXmpmp_SNim1fnSd7XI9lcZULIvdTrMXuHphx3Wl5xQqw9sfpDhVREqHr5j2Mt-xVrX5bo5IMs_dEYXih27XB0&amp;t=ffffffffdc32f924" type="text/javascript"></script>
+<script src="/certificados/ScriptResource.axd?d=-qsJQnKzoJseKhRGsoxyoirUWL_hqKjfUqFZqx1JmB5OySc7bmejmc2oz7gr1sCfLv5NE-rOpKJthzyXW82PqZu5lZpAIP4l4ByXv1t4DpQbe-7WuhseJL-Ty1IHUsOtC8Xh9FqyOwwOr9I2RiBjDg2&amp;t=ffffffffdc32f924" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="62FF503F" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+yI3w2cS0O3/n3zQRqgtnJHQSBS+j0VRbL1ptsufBAAJmpaIOiMk5hWHux5RWSztq6XHA3WhewM0heOfqqpU/WbRpFPsRHE7jbQcF9vYJT8uiCphyF673TWLJjgAtkROHqyDmYYNeffU+MKfNrDdjLIXfLy0ixGjd98bnpZDL5UhHRlM7kaZ8mQa1XRIc8aNQ6QE5TnYrEp36/CAIwpBBUqYSPLp8GCTzq7T0eG7gHJKrYnfv3z33afDysYiQTl9GjhRbc4D8jwZM+2/rRsYFcNqye/ZvrJx1MQsIzQPpMoxqaYrYUL3KFDHJNH0u9vt" />
+</div>
+        <div id="wrapper" style="min-height: 100%;">
+            <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0;">
+                <div class="navbar-header">
+                    <a href="#" class="sidebar-toggler pull-right visible-md visible-lg button-toggle"
+                        data-toggle="offcanvas" role="button"><i class="ti-align-justify"></i></a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
+                            class="icon-bar"></span><span class="icon-bar"></span>
+                    </button>
+                    <a href="Default.aspx" id="A1" class="navbar-brand">
+                        SNFP</a>
+                </div>
+                <div id="main" class="navbar-default sidebar" role="navigation">
+                    <div id="sidebar" class="sidebar-nav navbar-collapse">
+                        <ul class="nav" id="side-menu">
+                             <li class=" text-center" >
+                                <img src="../Content/images/LogoInfotep150x150.png" />
+                            </li>
+                            <li><a href="Default.aspx" id="A5"><i class="glyphicon glyphicon-certificate"></i>&nbsp;Consulta de Certificados</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="main">
+                <div id="page-wrapper-content">
+                    <div id="page-wrapper">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'Form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                                
+    <h3 class="page-header">Consulta de Certificados por No. de Documento</h3>
+    
+    <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <div class="input-group">
+                <input name="ctl00$MainContent$txtNoDocumento" type="text" value="00118002385" id="MainContent_txtNoDocumento" class="form-control " PlaceHolder="No. Documento" />
+                <span class="input-group-btn">
+                    <input type="submit" name="ctl00$MainContent$btnBuscar" value="Buscar" id="MainContent_btnBuscar" class="btn btn-primary" />
+                </span>
+            </div>
+            <!-- /input-group -->
+            
+        </div>
+        <div class="col-md-3">
+        </div>
+    </div>
+    <div style="margin-top: 30px; margin-left: 15px" class="row">
+        <div class="col-md-8">
+            <table cellspacing="0" align="Left" id="MainContent_fvDetalle" style="border-collapse:collapse;">
+	<tr>
+		<td colspan="2">
+                    <h4>
+                        <b>Matr√≠cula:
+                        </b>
+                        <span id="MainContent_fvDetalle_IDMATRICULALabel">1709074</span>
+                    </h4>
+                    <h4>
+                        <b>No. Documento:
+                        </b>
+                        <span id="MainContent_fvDetalle_NODOCUMENTOLabel">00118002385</span>
+                    </h4>
+                    <h4>
+                        <b>Nombre:
+                        </b>
+                        <span id="MainContent_fvDetalle_NOMBRELabel">JOCHIMIN CONTRERAS GARCIA</span>
+                    </h4>
+                </td>
+	</tr>
+</table>
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+    <div style="margin-top: 30px" class="text-center row">
+        <div class="table-responsive ">
+            <div>
+	<table class="table table-hover headercenter" cellspacing="0" align="Center" id="MainContent_gvCertificados" style="width:85%;border-collapse:collapse;">
+		<tr>
+			<th align="center" scope="col" style="vertical-align:Middle;">Capacitaci&#243;n</th><th align="center" scope="col" style="vertical-align:Middle;">Libro</th><th scope="col" style="vertical-align:Middle;">Folio</th><th scope="col" style="vertical-align:Middle;">No. Egresado</th><th scope="col" style="vertical-align:Middle;">Regional</th><th scope="col" style="vertical-align:Middle;">Ciudad</th><th scope="col" style="vertical-align:Middle;">&nbsp;</th>
+		</tr><tr>
+			<td align="center" style="vertical-align:Middle;">CCNA I (FUNDAMENTO DE REDES)</td><td align="center" style="vertical-align:Middle;">197</td><td align="center" style="vertical-align:Middle;">425</td><td align="center" style="vertical-align:Middle;">5</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTIAGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl02$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_0" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr><tr style="background-color:White;">
+			<td align="center" style="vertical-align:Middle;">ESCALAMIENTO DE REDES (CCNA3)</td><td align="center" style="vertical-align:Middle;">208</td><td align="center" style="vertical-align:Middle;">111</td><td align="center" style="vertical-align:Middle;">5</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTIAGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl03$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_1" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr><tr>
+			<td align="center" style="vertical-align:Middle;">JAVA BASICO</td><td align="center" style="vertical-align:Middle;">345</td><td align="center" style="vertical-align:Middle;">19</td><td align="center" style="vertical-align:Middle;">6</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTO DOMINGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl04$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_2" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr><tr style="background-color:White;">
+			<td align="center" style="vertical-align:Middle;">PRINCIPIOS BASICOS DE ROUTING Y SWITCHING(CCNA 2)</td><td align="center" style="vertical-align:Middle;">202</td><td align="center" style="vertical-align:Middle;">371</td><td align="center" style="vertical-align:Middle;">7</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTIAGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl05$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_3" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr><tr>
+			<td align="center" style="vertical-align:Middle;">INTRODUCCION A LA PROGRAMACION</td><td align="center" style="vertical-align:Middle;">342</td><td align="center" style="vertical-align:Middle;">199</td><td align="center" style="vertical-align:Middle;">3</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTO DOMINGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl06$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_4" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr><tr style="background-color:White;">
+			<td align="center" style="vertical-align:Middle;">JAVA BASICO</td><td align="center" style="vertical-align:Middle;">351</td><td align="center" style="vertical-align:Middle;">288</td><td align="center" style="vertical-align:Middle;">8</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTO DOMINGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl07$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_5" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr><tr>
+			<td align="center" style="vertical-align:Middle;">CONECCION DE REDES (CCNA 4)</td><td align="center" style="vertical-align:Middle;">213</td><td align="center" style="vertical-align:Middle;">479</td><td align="center" style="vertical-align:Middle;">4</td><td style="vertical-align:Middle;">INSTITUTO TECNOLOGICO DE LAS AMERICAS</td><td style="vertical-align:Middle;">SANTIAGO</td><td style="vertical-align:Middle;">
+                            <input type="image" name="ctl00$MainContent$gvCertificados$ctl08$ImgVerCertificado" id="MainContent_gvCertificados_ImgVerCertificado_6" title="Ver Certificado" src="../Content/images/download-26.png" />
+                        </td>
+		</tr>
+	</table>
+</div>
+        </div>
+
+    </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footer-content" class="footer">
+                <div class="footer-inner">
+                    <div class="pull-right">
+                        <b>Version</b> 2.0.0
+                    </div>
+                    <div class="pull-left">
+                        ¬© 2016 <span class="text-bold text-uppercase">
+                            SNFP</span>.
+                    <span>Todos los derechos reservados</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+ÇïÖ‚è      bƒF bƒF Dv£QbƒF,   y    O^partitionKey=%28https%2Cinfotep.gob.do%29,~1657027471,:https://servicios.infotep.gob.do/Certificados/Forms/Default.aspx strongly-framed 1 security-info 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 request-method POST response-head HTTP/2 200 OK
+cache-control: private
+content-type: text/html; charset=utf-8
+server: Microsoft-IIS/10.0
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Tue, 05 Jul 2022 14:09:48 GMT
+content-length: 21290
+X-Firefox-Spdy: h2
+ original-response-headers cache-control: private
+content-type: text/html; charset=utf-8
+server: Microsoft-IIS/10.0
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Tue, 05 Jul 2022 14:09:48 GMT
+content-length: 21290
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0 net-response-time-onstart 513 net-response-time-onstop 525   S*

@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=JDownloader 2 Update & Rescue
+Exec=/bin/sh "/home/jochimin/jd2/JDownloader2Update"
+Icon=/home/jochimin/jd2/.install4j/JDownloader2Update.png
+Categories=Network;Application;

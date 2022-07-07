@@ -1,0 +1,6 @@
+WARN  2022-07-04T18:42:53.839 390136 deadly_signal:177: got signal 1 (SIGHUP)
+WARN  2022-07-04T18:42:57.548 390288 deadly_signal:177: got signal 1 (SIGHUP)
+WARN  2022-07-04T18:46:34.962 392164 deadly_signal:177: got signal 1 (SIGHUP)
+WARN  2022-07-04T18:48:26.331 398878 deadly_signal:177: got signal 1 (SIGHUP)
+WARN  2022-07-04T18:48:41.090 399131 deadly_signal:177: got signal 1 (SIGHUP)
+WARN  2022-07-05T14:09:14.156 410834 deadly_signal:177: got signal 1 (SIGHUP)

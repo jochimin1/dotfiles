@@ -1,0 +1,31 @@
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.4.0
+[19:19:52.080][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.744 MB
+        # 00 : 1.744 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[19:19:52.187][info] [#0:script/language.lua:137]: VSC language: nil
+[19:19:52.187][info] [#0:script/language.lua:138]: LS  language: en-us
+[19:19:52.187][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/jochimin/.config/nvim
+[19:19:52.187][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_jochimin_.config_nvim.log

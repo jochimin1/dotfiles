@@ -1,0 +1,135 @@
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[19:19:52.060][info] [#0:/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.4.0
+[19:19:52.080][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.744 MB
+        # 00 : 1.744 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[19:19:52.187][info] [#0:script/language.lua:137]: VSC language: nil
+[19:19:52.187][info] [#0:script/language.lua:138]: LS  language: en-us
+[19:19:52.187][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/jochimin/.config/nvim
+[19:19:52.187][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_jochimin_.config_nvim.log
+[19:19:52.188][info] [#0:script/workspace/workspace.lua:49]: Workspace create: 	file:///home/jochimin/.config/nvim
+[19:19:52.290][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/jochimin/.config/nvim
+[19:19:52.290][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/jochimin/.config/nvim
+[19:19:52.390][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[19:19:52.390][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[19:19:52.402][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/jochimin/.config/nvim
+[19:19:52.410][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[19:19:52.410][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[19:19:52.410][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[19:19:52.411][info] [#0:script/workspace/workspace.lua:285]: Preload start:	file:///home/jochimin/.config/nvim
+[19:19:52.411][info] [#0:script/workspace/workspace.lua:291]: Scan files at:	file:///home/jochimin/.config/nvim
+[19:19:52.412][info] [#0:script/workspace/workspace.lua:285]: Preload start:	<fallback>
+[19:19:52.412][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[19:19:52.414][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[19:19:52.421][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[19:19:52.426][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/jochimin/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[19:19:52.427][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[19:19:52.429][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[19:19:54.094][info] [#0:script/workspace/workspace.lua:327]: Found 57 files at:	<fallback>
+[19:19:54.094][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[19:19:54.094][info] [#0:script/workspace/workspace.lua:327]: Found 84 files at:	file:///home/jochimin/.config/nvim
+[19:19:54.094][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:19:54.112][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.026] sec: <fallback>
+[19:19:54.112][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[19:19:54.112][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[19:19:54.112][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	<fallback>
+[19:19:54.114][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[19:19:54.121][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.035] sec: file:///home/jochimin/.config/nvim
+[19:19:54.121][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:19:54.121][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:19:54.121][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	file:///home/jochimin/.config/nvim
+[19:19:54.547][info] [#0:script/provider/diagnostic.lua:483]: Diagnostics scope [file:///home/jochimin/.config/nvim], files count:[72]
+[19:19:54.547][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[19:19:54.682][info] [#0:script/provider/diagnostic.lua:500]: Diagnostics scope [file:///home/jochimin/.config/nvim] finished, takes [0.135] sec.
+[19:19:56.095][info] [#0:script/provider/diagnostic.lua:483]: Diagnostics scope [<fallback>], files count:[72]
+[19:19:56.162][info] [#0:script/provider/diagnostic.lua:500]: Diagnostics scope [<fallback>] finished, takes [0.065] sec.
+[19:21:01.861][info] [#0:script/provider/provider.lua:167]: Server shutdown.
+[19:21:01.861][info] [#0:script/provider/provider.lua:160]: Server exited.
+[19:22:57.249][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/plugin/transparent.lua
+[19:22:57.249][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:22:57.249][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:22:57.249][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:22:57.249][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:23:31.255][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/lua/core/transparent.lua
+[19:23:31.256][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:23:33.254][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.005] sec: file:///home/jochimin/.config/nvim
+[19:23:33.254][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:23:33.254][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:23:35.255][info] [#0:script/provider/diagnostic.lua:483]: Diagnostics scope [file:///home/jochimin/.config/nvim], files count:[73]
+[19:23:35.350][info] [#0:script/provider/diagnostic.lua:500]: Diagnostics scope [file:///home/jochimin/.config/nvim] finished, takes [0.095] sec.
+[19:23:39.255][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/lua/custom/transparent.lua
+[19:23:39.255][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:23:39.255][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:23:39.255][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:23:39.255][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:23:54.258][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/.git/index
+[19:23:54.258][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:23:54.258][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:23:54.258][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:23:54.258][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:24:03.261][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/.git/.gitstatus.gIHAho
+[19:24:03.261][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:24:03.261][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:24:03.261][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:24:03.261][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:25:02.271][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/.git/.gitstatus.PgedlC/a
+[19:25:02.271][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/.git/.gitstatus.PgedlC/b
+[19:25:02.272][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/jochimin/.config/nvim/.git/.gitstatus.PgedlC
+[19:25:02.272][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/jochimin/.config/nvim
+[19:25:02.272][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/jochimin/.config/nvim
+[19:28:40.309][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 51.973 MB
+        # 00 : 49.698 MB
+        # 01 : 0.677 MB
+        # 02 : 0.435 MB
+        # 03 : 0.677 MB
+        # 04 : 0.486 MB
+    --------------- Coroutine ---------------
+        Total:     264
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      264
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[19:31:03.141][info] [#0:script/provider/provider.lua:167]: Server shutdown.
+[19:31:03.142][info] [#0:script/provider/provider.lua:160]: Server exited.
