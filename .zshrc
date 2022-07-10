@@ -62,7 +62,8 @@ alias ls='lsd --group-dirs=first'
 alias cat='bat'
 alias ..='cd ..'
 alias xclip='xclip -selection clipboard'
-
+alias cpr='/usr/local/bin/cp -g'
+alias mvr='/usr/local/bin/mv -g'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
